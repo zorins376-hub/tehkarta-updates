@@ -1,9 +1,9 @@
 {
- "n": 2611232153,
- "v": "2026.11.23 21:53",
- "file": "tehkarta-2611232153.tkz",
- "sha256": "774dab855067a503927c1992936f564b18ecfdad6b77904582244329a94e1b72",
- "sig": "LgWolYF0BEs6IgmAg7lOPjv2xu2LxLgv5N+qB0PccltxBFzy9ED+KYNMYRyesKKKY1wLPFAXyz8fBXyFaB4qCw==",
- "size": 2677256,
- "notes": "Модель из Базиса: уголки и подобные изделия, нарисованные профилем, попадают в список"
+ "n": 2611232201,
+ "v": "2026.11.23 22:01",
+ "file": "tehkarta-2611232201.tkz",
+ "sha256": "d9ce3b02c0d36a34d738333535f41738a8a08b9d9d1dd9cb22bde5bb5ed0c47e",
+ "sig": "Ldno3gXWwQvmMK8NiAPHX9A+vaT7mq6JRPppBb/NH8oUoXLZwxj8kBRqsBwA9APGwbGp9MrhGAnTxdTfnVQGBw==",
+ "size": 2688603,
+ "notes": "Вкладка «Упаковка»: подбор ширины рулона, раскрой с нахлёстом, чертёж развёртки, объёмная коробка с логотипом и сборкой; картон в итоге модели"
 }
