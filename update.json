@@ -1,9 +1,9 @@
 {
- "n": 2611232135,
- "v": "2026.11.23 21:35",
- "file": "tehkarta-2611232135.tkz",
- "sha256": "0ea389db2fec513ac182b87ba58af0bd7d1ecf502a6838ff4513db03c7552ddf",
- "sig": "7I/mj8gRBUUT4yRfrDZ/Zqwo2jT+SpxFFB1xERiXqIuvjxAYo3Z3r0ote9pjhmI012ASK+90BzklC8jFw/SsDA==",
- "size": 2671697,
- "notes": "Модель из Базиса: новые материалы сами не заводятся — только выбранные из справочника или явное «завести новый»; точное название находится без повторов"
+ "n": 2611232139,
+ "v": "2026.11.23 21:39",
+ "file": "tehkarta-2611232139.tkz",
+ "sha256": "accb883ad16aad3258e7c0cb9d51f1e7de18a8edbcbffe5c3e7e2d35e5ab6be0",
+ "sig": "306ulSs2g/3sYpWAE7PmPsrsbSWwxKtz/AMZIs/iPgg0eTRolrlB9ItFdZnikfRu7/7Zuwm+1A+ke5GlNHrkCA==",
+ "size": 2672813,
+ "notes": "Модель из Базиса: направляющие (Тандем) считаются парами"
 }
