@@ -1,9 +1,9 @@
 {
- "n": 2611240206,
- "v": "2026.11.24 02:06",
- "file": "tehkarta-2611240206.tkz",
- "sha256": "fdc24fe7d55a94bf2d4b50eabb5e6fbdb5a1394da6e4364f1cd30bbdec493c20",
- "sig": "z4YikqGHvG8y6C5PNcZPDqAp3tJ7I2/AVJNH5lnpZ7VJksm/ibxkRznLk5+KQEGlW1gzRpdysNQ2Kr7OYwW+Ag==",
- "size": 2728999,
- "notes": "Отделка: в списке «Грунт» теперь только грунты, в «Краска, эмаль» — только краски, в «Лак» — только лаки (по слову в названии)."
+ "n": 2611240208,
+ "v": "2026.11.24 02:08",
+ "file": "tehkarta-2611240208.tkz",
+ "sha256": "25d877c7ca6f9a37df624920cbbe354098f3ae43843d70d983ccf88e169f9552",
+ "sig": "kaylv0vNTPLJu2XzYC0NUhhy41cDDcdr1O3/2/StIah5yskJh3gIPNFnCSJYn0ErOSgbndjHPdoUHOwYn9SnDQ==",
+ "size": 2729028,
+ "notes": "Краска, грунт, лак: расход теперь считается просто — площадь × норма расхода, г/м². Норма вводится уже со всеми допусками: слои, потери на распыл и торцы больше не добавляются. Поле «Слоёв» из карточки краски убрано."
 }
