@@ -1,9 +1,9 @@
 {
- "n": 2611232148,
- "v": "2026.11.23 21:48",
- "file": "tehkarta-2611232148.tkz",
- "sha256": "5ae0b2f4459470c42b1c06f2571c42d24d397f7787e2051009d74342038713f1",
- "sig": "/Fw0/M3sjxM+Q3wx0543rU/U7qvx1sQtfuGN6XtkE1aL1LpTj4I0t5QvFWXRR4KHQmDE1Id47bOobbCIdkIICA==",
- "size": 2676706,
- "notes": "Объёмный вид: уголки и бортики, цвета по материалам, свой цвет материала; артикул из номера в имени файла Базиса"
+ "n": 2611232153,
+ "v": "2026.11.23 21:53",
+ "file": "tehkarta-2611232153.tkz",
+ "sha256": "774dab855067a503927c1992936f564b18ecfdad6b77904582244329a94e1b72",
+ "sig": "LgWolYF0BEs6IgmAg7lOPjv2xu2LxLgv5N+qB0PccltxBFzy9ED+KYNMYRyesKKKY1wLPFAXyz8fBXyFaB4qCw==",
+ "size": 2677256,
+ "notes": "Модель из Базиса: уголки и подобные изделия, нарисованные профилем, попадают в список"
 }
