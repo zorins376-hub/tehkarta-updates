@@ -1,9 +1,9 @@
 {
- "n": 2611240008,
- "v": "2026.11.24 00:08",
- "file": "tehkarta-2611240008.tkz",
- "sha256": "59efc41ebb57cf74895465988e6c1938807843d6c529167dc06a4a16231a3f96",
- "sig": "laXxidJnQt+iUW1+2Ng29ElgVquZBpXCbz3ItWdkroyYeQtzqYr83oJ+J4ynLm3wOL1OmQTDJn0qz8jdPtB6BQ==",
- "size": 2719093,
- "notes": "Окно краски: состав смеси тремя банками — основа, отвердитель, разбавитель — с выбором материала и числом частей"
+ "n": 2611240019,
+ "v": "2026.11.24 00:19",
+ "file": "tehkarta-2611240019.tkz",
+ "sha256": "4f0ed71a1c85ab19e4bb51964bd6d36c70ced48a584df5af79510d944c7c33ba",
+ "sig": "QYBv349YqnYf77Uzs8V0FTIhkP0f48iNhxr+rvRxORBvncFOUhGOiN4rmM3D5acRPFpUi0IA+5Jxt2+q/PY8Bg==",
+ "size": 2718735,
+ "notes": "Итог: расчётные строки без выбранного материала стоят в своём разделе и называются по типу"
 }
