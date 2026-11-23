@@ -1,9 +1,9 @@
 {
- "n": 2611240536,
- "v": "2026.11.24 05:36",
- "file": "tehkarta-2611240536.tkz",
- "sha256": "98ddf566bed6dea50f8a47f2cd62772f973b0e74661cdfe8e8a581ab566f700f",
- "sig": "R6/inFm5VTbDmkMC8NDq6uaT3VB+jxOxFIZwoTzEWQwwolozejRv+W9BpyDghR97/YpQwTuhXS7wNd3wERVgAA==",
- "size": 2749735,
- "notes": "Заказы: модели внутри заказа показаны карточками с картинкой, как в каталоге — с количеством, исполнением, установкой и цветами прямо на карточке."
+ "n": 2611240539,
+ "v": "2026.11.24 05:39",
+ "file": "tehkarta-2611240539.tkz",
+ "sha256": "0c6f3fc00999ffea933c1e38f0f3a53faaa396020e2341a80b78249ca1d9cf2a",
+ "sig": "9w6pAcXmIXl1nHGI8TXtRE793bgMoA6dPPNV3RwzjAypaHKqpRllcf56mCt3roFPd6REP2TH5Qy82Q8cuBKNAw==",
+ "size": 2749768,
+ "notes": "Исправлено: ссылки «Спецификация позиции», «ещё такая же», «Карточка», «Изменить отделку» и «открыть» были не видны на светлом фоне — теперь синие."
 }
