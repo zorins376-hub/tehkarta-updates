@@ -1,9 +1,9 @@
 {
- "n": 2611240544,
- "v": "2026.11.24 05:44",
- "file": "tehkarta-2611240544.tkz",
- "sha256": "8e7af4b694d02081c16dda600c66c92d874892ad6d6a0b66c723635025e85c12",
- "sig": "KJPYZOaX7jBFePHUNWv2WHFHPmqd3XJBCepOvyeDjqdkQVSKMpfPIRQtX9AP0UqKl21MD9BD5ZSx0lDPchdEDg==",
- "size": 2749758,
- "notes": "Заказы: общая спецификация в карточке заказа по умолчанию скрыта — открывается кнопкой «Показать спецификацию заказа». Кнопка «Выгрузить в Excel» вынесена рядом."
+ "n": 2611240550,
+ "v": "2026.11.24 05:50",
+ "file": "tehkarta-2611240550.tkz",
+ "sha256": "ea0dba485acefa9cc9b16f1e907abc8e8d5aad56dc7d4c7f47635992bf505ace",
+ "sig": "m8AY5EjEjVm7LNus8FTUPhwOHn4olYdlBxDMQ1MIlnIWIN2A/Jt1jcrOJ9WaFpN9++JRj3mBuJJMCrHPBmqdBg==",
+ "size": 2750109,
+ "notes": "Комплектация: новое правило «Фасад в плёнке». Заведено готовое: на модель с фасадом в плёнке — Растворитель 646, 0,015 л; на модель с крашеным фасадом остаётся 0,01 л."
 }
