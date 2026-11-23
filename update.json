@@ -1,9 +1,9 @@
 {
- "n": 2611232007,
- "v": "2026.11.23 20:07",
- "file": "tehkarta-2611232007.tkz",
- "sha256": "cc18f971eaec3fc5a811c31b04445d61393bf3d9f95f5d2c418631b9ec3db8c6",
- "sig": "f496TwFArjgXzAvMZ0pc6OPEsd15fGqrNpy8Lkm30nF1pc6JVN6YZ1WBGTeR6kbNiBfiRslxADm0g5HTs7NaDA==",
- "size": 2662201,
- "notes": "Режим «Надписи»: менять можно любой текст — пояснения, подсказки в пустых полях, пустые строки списков, сообщения"
+ "n": 2611232116,
+ "v": "2026.11.23 21:16",
+ "file": "tehkarta-2611232116.tkz",
+ "sha256": "2cf4226c77588ea6d052f96eebad8dbc80a0f76bbabc9cab546a76086da1974b",
+ "sig": "P3cDrcjwTmj18mW8qMe62D9SfgR6dByHdgDpZ5VRABWm5fcVnV5hOyZ1L6JyfjOv032oCQGdxnSRzkF6XO0OAg==",
+ "size": 2663791,
+ "notes": "Материалы: кнопка «Удалить все» — все или только показанные фильтром, с копией базы перед удалением"
 }
