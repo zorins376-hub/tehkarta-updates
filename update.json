@@ -1,9 +1,9 @@
 {
- "n": 2611232119,
- "v": "2026.11.23 21:19",
- "file": "tehkarta-2611232119.tkz",
- "sha256": "bfc796aca6ec7d962335756b16f3273a2cddfdabb7fa452ce2f6397417370dfe",
- "sig": "rqmEIcNY5m2rsR8xHEahFUsezUHmzTUB88iIcXE1V9XnUZl+0n2998FLVVLWxdCLiH9lZ8d49hxsxw/gPe96Bw==",
- "size": 2664016,
- "notes": "Обновления видны сразу после выпуска, без пятиминутной задержки; материалы — «Удалить все»"
+ "n": 2611232131,
+ "v": "2026.11.23 21:31",
+ "file": "tehkarta-2611232131.tkz",
+ "sha256": "4497b5ebf92feef75c66fa5ef27a87e78a5a5f9b54aeed4a554a1a503de01c31",
+ "sig": "Kyfc/nwu2zCCnNx9iddaZQlISx69qoIeRTskCE3ae4wdtspSAdv3dc5BJtwPUdQ2jGRjsNBRY+HA+Y/BRUR4AA==",
+ "size": 2670976,
+ "notes": "Модель из Базиса: кромка с названиями и артикулами, покупные изделия (Тандем, U-Борт и т. п.), без лишних строк-отверстий"
 }
