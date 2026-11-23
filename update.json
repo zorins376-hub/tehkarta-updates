@@ -1,9 +1,9 @@
 {
- "n": 2611240539,
- "v": "2026.11.24 05:39",
- "file": "tehkarta-2611240539.tkz",
- "sha256": "0c6f3fc00999ffea933c1e38f0f3a53faaa396020e2341a80b78249ca1d9cf2a",
- "sig": "9w6pAcXmIXl1nHGI8TXtRE793bgMoA6dPPNV3RwzjAypaHKqpRllcf56mCt3roFPd6REP2TH5Qy82Q8cuBKNAw==",
- "size": 2749768,
- "notes": "Исправлено: ссылки «Спецификация позиции», «ещё такая же», «Карточка», «Изменить отделку» и «открыть» были не видны на светлом фоне — теперь синие."
+ "n": 2611240541,
+ "v": "2026.11.24 05:41",
+ "file": "tehkarta-2611240541.tkz",
+ "sha256": "586539645fa5be3c23b4d6ac3c96754687796c0a5612d6a59b9ea788777cd531",
+ "sig": "aTKjZHor8fJ24S4Ecmbb6KcSOrAmSXuBB230wBI5F7VhBSPaQM1BazeGmFUCZamsxVEXLBU9qhtEiPMsIizlDg==",
+ "size": 2749713,
+ "notes": "Заказы: убрано пояснение под кнопкой «Добавить файлы Базиса» — оно теперь всплывает при наведении на кнопку."
 }
