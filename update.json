@@ -1,9 +1,9 @@
 {
- "n": 2611232305,
- "v": "2026.11.23 23:05",
- "file": "tehkarta-2611232305.tkz",
- "sha256": "e3235b0a3384b15ff443ca3eab06ebb3bcc03310c1591f2bcffb0ec55b1aa97a",
- "sig": "UNqowhyu94pP16CXaRqWEwl3Dj3OXE6+ZxWtwPJHZ6rpyvlzkbpt9kSiHmyO9fkMxusNNAtBI2WPrpikyPtNCQ==",
- "size": 2691513,
- "notes": "Комплектация прямо в карточке материала: что добавлять на каждую единицу именно этой фурнитуры; своё правило главнее правила на группу"
+ "n": 2611232307,
+ "v": "2026.11.23 23:07",
+ "file": "tehkarta-2611232307.tkz",
+ "sha256": "42a9d167b1922bee1c4dc58e22b56e1a292669f1014ea02f34e08b9df0cdec00",
+ "sig": "VgK7Kw1qT/XCRS68a42V3c2QY/osMWM/x672Wrz8ymEd5of/ftZBmXbso3GckEiebVzVg4n3xQIdwwA7TgMSAg==",
+ "size": 2700819,
+ "notes": "Объёмный вид: без лишних линий внутри деталей с отверстиями"
 }
