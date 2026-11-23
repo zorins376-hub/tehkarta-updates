@@ -1,9 +1,9 @@
 {
- "n": 2611232142,
- "v": "2026.11.23 21:42",
- "file": "tehkarta-2611232142.tkz",
- "sha256": "74c3a73aaf373573abf502bb48a530535f73130fb64002b74de19fe056174f87",
- "sig": "s3hstEFfrauf+ER5s7j9iruVb7AiT63a5dnebodP+bMcHbp90qiFKfTRZmAZpw6m2/VMABLIc1N95uuGFhuhAw==",
- "size": 2673084,
- "notes": "Объёмный вид: фигурные детали (дно ящика с вырезом) стоят на своём месте"
+ "n": 2611232148,
+ "v": "2026.11.23 21:48",
+ "file": "tehkarta-2611232148.tkz",
+ "sha256": "5ae0b2f4459470c42b1c06f2571c42d24d397f7787e2051009d74342038713f1",
+ "sig": "/Fw0/M3sjxM+Q3wx0543rU/U7qvx1sQtfuGN6XtkE1aL1LpTj4I0t5QvFWXRR4KHQmDE1Id47bOobbCIdkIICA==",
+ "size": 2676706,
+ "notes": "Объёмный вид: уголки и бортики, цвета по материалам, свой цвет материала; артикул из номера в имени файла Базиса"
 }
