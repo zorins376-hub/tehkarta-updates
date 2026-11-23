@@ -1,9 +1,9 @@
 {
- "n": 2611232201,
- "v": "2026.11.23 22:01",
- "file": "tehkarta-2611232201.tkz",
- "sha256": "d9ce3b02c0d36a34d738333535f41738a8a08b9d9d1dd9cb22bde5bb5ed0c47e",
- "sig": "Ldno3gXWwQvmMK8NiAPHX9A+vaT7mq6JRPppBb/NH8oUoXLZwxj8kBRqsBwA9APGwbGp9MrhGAnTxdTfnVQGBw==",
- "size": 2688603,
- "notes": "Вкладка «Упаковка»: подбор ширины рулона, раскрой с нахлёстом, чертёж развёртки, объёмная коробка с логотипом и сборкой; картон в итоге модели"
+ "n": 2611232211,
+ "v": "2026.11.23 22:11",
+ "file": "tehkarta-2611232211.tkz",
+ "sha256": "939c3ab2e7d01b1f32b30e0e6035f4576c5fd0cc581aebc9661672b0bffc816c",
+ "sig": "Zx1P1OHeU7oUJrU5eSMiaFYazuPMH9GczGgX3LCNMed4aH63B9dd037iTmDooIydUYstqhGWTCq/RK412WCbBw==",
+ "size": 2688643,
+ "notes": "Упаковка: надпись на коробке под 45°"
 }
