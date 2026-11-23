@@ -1,9 +1,9 @@
 {
- "n": 2611240528,
- "v": "2026.11.24 05:28",
- "file": "tehkarta-2611240528.tkz",
- "sha256": "969c68a7b85cd6c326194c1cd824d1b3631b77e6b11dfd99c6223fcc966c8fa9",
- "sig": "JqYIIAMKfM8g4hyG20cj8ze/mOR3M9JFRQxmQnTTunQhbN1bWl1zmgdqo+kpJaMtDZF3N6vIL+nLGfg3rDjZDw==",
- "size": 2749193,
- "notes": "Заказы: расход можно смотреть «На весь заказ» и «По каждой модели» — переключатель над спецификацией заказа."
+ "n": 2611240536,
+ "v": "2026.11.24 05:36",
+ "file": "tehkarta-2611240536.tkz",
+ "sha256": "98ddf566bed6dea50f8a47f2cd62772f973b0e74661cdfe8e8a581ab566f700f",
+ "sig": "R6/inFm5VTbDmkMC8NDq6uaT3VB+jxOxFIZwoTzEWQwwolozejRv+W9BpyDghR97/YpQwTuhXS7wNd3wERVgAA==",
+ "size": 2749735,
+ "notes": "Заказы: модели внутри заказа показаны карточками с картинкой, как в каталоге — с количеством, исполнением, установкой и цветами прямо на карточке."
 }
