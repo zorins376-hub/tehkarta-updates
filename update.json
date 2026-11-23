@@ -1,9 +1,9 @@
 {
- "n": 2611240239,
- "v": "2026.11.24 02:39",
- "file": "tehkarta-2611240239.tkz",
- "sha256": "19152d406cb4c443e1748c543291c7e670897ea96db65fbebf3261ad244a5f33",
- "sig": "6GJiwG4aRhrfyzT8eJA02XLvYMqa9Dv9SNe7Zh39yhX5FIE3zu++nxqb5eHslUxWIo75M2Pg3sH2rB5DkJ1OAg==",
- "size": 2729011,
- "notes": "Отделка: остались только грунт и краска, лак убран везде — из окна отделки, из итогов и подписей."
+ "n": 2611240246,
+ "v": "2026.11.24 02:46",
+ "file": "tehkarta-2611240246.tkz",
+ "sha256": "d1685b54cd4a175bf742ab02bee301d5f1accf6bf4d7c4d78c9c752359546d22",
+ "sig": "N+71OcPBHP/KUIQB7vacQPhdA0X3ppBmunHOCDwKYVF4mSqXThf1cRfQusS+kmZIg5UVq4g8/qT6/ECqFRvHCQ==",
+ "size": 2728994,
+ "notes": "3D: боковина, отмеченная под покраску, больше не выезжает вместе с ящиком. Отделка детали теперь не влияет на то, как открываются ящики и двери."
 }
