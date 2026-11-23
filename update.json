@@ -1,9 +1,9 @@
 {
- "n": 2611232329,
- "v": "2026.11.23 23:29",
- "file": "tehkarta-2611232329.tkz",
- "sha256": "0d20f0ffc6929cd870216444885267d5dc50686a09e1580d8b5828e9ddb6a35a",
- "sig": "OJz9Bj6vJtcR2bxaQIr6xB7/Z3Guwr3DkYo1N3tXiZuwAu/y2T9xT5G/Hrm+iHA/UC/RoG0EdFnkPxdKV1kfAw==",
- "size": 2716017,
- "notes": "Документация: на титуле всегда вид спереди; отметки отверстий на своих местах"
+ "n": 2611232354,
+ "v": "2026.11.23 23:54",
+ "file": "tehkarta-2611232354.tkz",
+ "sha256": "755480cb723e3b4304fb0cb084a0d1dadcb1a96af974d4dc6af59c013d27d764",
+ "sig": "rp2cP8Iwn4qYRAtVUG5KqR2XaKftCJPj43fZuzwzFk5vt4d1Gph6Trdgyo5nQgzbQr6luc0tBYggrhKIWjZPBA==",
+ "size": 2716171,
+ "notes": "Новая карточка материала из списка: видно, для чего она и куда вернёшься после сохранения"
 }
