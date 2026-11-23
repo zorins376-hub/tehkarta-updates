@@ -1,9 +1,9 @@
 {
- "n": 2611240045,
- "v": "2026.11.24 00:45",
- "file": "tehkarta-2611240045.tkz",
- "sha256": "de3d018aa524d0f358ce8981ae8cd954c262cd7630cf7b8c33c265d06d911b86",
- "sig": "t80+CYyzpuU0D8FojJZf41EoOfO5ZHn30GroAmKf9jLLOnlVHJqTD8Wvk8+rKuopISXUZGQalEPO3rU730b4AQ==",
- "size": 2722252,
- "notes": "Фасады: отметка щелчком по модели с подсветкой, общая отделка одной кнопкой, поля Грунт / Краска / Лак и цвет на все фасады"
+ "n": 2611240101,
+ "v": "2026.11.24 01:01",
+ "file": "tehkarta-2611240101.tkz",
+ "sha256": "14e1fe03b17c64a3d734a8580ad59c3d47c65bb080d8163fa4453508e39f32e6",
+ "sig": "lrtuEEatBdgG/BItydkqSvGMVaaLqOCAe0fd59YQMnhwXzlTiVa/iNxLxrdrpjzjSajT4dDR45Rvb1IGhmj4BA==",
+ "size": 2723793,
+ "notes": "Фасады: компактная таблица вместо карточек, подробности по кнопке"
 }
