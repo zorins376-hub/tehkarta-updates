@@ -1,9 +1,9 @@
 {
- "n": 2611240200,
- "v": "2026.11.24 02:00",
- "file": "tehkarta-2611240200.tkz",
- "sha256": "0beb7496ca9caf07e93527a8b6ca5081b1cffcfc928d2309cf432fc2630f260b",
- "sig": "uvAxphDRpdoZ5F964BoapcW1LJ6I4SxoVa/mHEY57rDvBwr6KETgxvqNeEV+I08QTLyG4YV2wZ363OchvnxwCA==",
- "size": 2728900,
- "notes": "Фасады: расход показан отдельно по каждому слою — сколько грунта, сколько краски, сколько лака — у каждого фасада, в итоге по отделке и во «Всего на изделие»."
+ "n": 2611240206,
+ "v": "2026.11.24 02:06",
+ "file": "tehkarta-2611240206.tkz",
+ "sha256": "fdc24fe7d55a94bf2d4b50eabb5e6fbdb5a1394da6e4364f1cd30bbdec493c20",
+ "sig": "z4YikqGHvG8y6C5PNcZPDqAp3tJ7I2/AVJNH5lnpZ7VJksm/ibxkRznLk5+KQEGlW1gzRpdysNQ2Kr7OYwW+Ag==",
+ "size": 2728999,
+ "notes": "Отделка: в списке «Грунт» теперь только грунты, в «Краска, эмаль» — только краски, в «Лак» — только лаки (по слову в названии)."
 }
