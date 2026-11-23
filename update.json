@@ -1,9 +1,9 @@
 {
- "n": 2611232300,
- "v": "2026.11.23 23:00",
- "file": "tehkarta-2611232300.tkz",
- "sha256": "5a183886ec5b2a713adf2d70c4e78e5b221b811811f17c29ee83f23a0646462a",
- "sig": "8HLj7wSS7+vsVZSAHUgmtzatxs34QHvueLKI3301FS9lu0EbUQfo8DRlemzgfslgyy0nTcB4FLSR2d67P4KJBA==",
- "size": 2690077,
- "notes": "Объёмный вид: вырезы и отверстия в подвесах и уголках, цвет металла и пластика"
+ "n": 2611232305,
+ "v": "2026.11.23 23:05",
+ "file": "tehkarta-2611232305.tkz",
+ "sha256": "e3235b0a3384b15ff443ca3eab06ebb3bcc03310c1591f2bcffb0ec55b1aa97a",
+ "sig": "UNqowhyu94pP16CXaRqWEwl3Dj3OXE6+ZxWtwPJHZ6rpyvlzkbpt9kSiHmyO9fkMxusNNAtBI2WPrpikyPtNCQ==",
+ "size": 2691513,
+ "notes": "Комплектация прямо в карточке материала: что добавлять на каждую единицу именно этой фурнитуры; своё правило главнее правила на группу"
 }
