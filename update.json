@@ -1,9 +1,9 @@
 {
- "n": 2611232211,
- "v": "2026.11.23 22:11",
- "file": "tehkarta-2611232211.tkz",
- "sha256": "939c3ab2e7d01b1f32b30e0e6035f4576c5fd0cc581aebc9661672b0bffc816c",
- "sig": "Zx1P1OHeU7oUJrU5eSMiaFYazuPMH9GczGgX3LCNMed4aH63B9dd037iTmDooIydUYstqhGWTCq/RK412WCbBw==",
- "size": 2688643,
- "notes": "Упаковка: надпись на коробке под 45°"
+ "n": 2611232300,
+ "v": "2026.11.23 23:00",
+ "file": "tehkarta-2611232300.tkz",
+ "sha256": "5a183886ec5b2a713adf2d70c4e78e5b221b811811f17c29ee83f23a0646462a",
+ "sig": "8HLj7wSS7+vsVZSAHUgmtzatxs34QHvueLKI3301FS9lu0EbUQfo8DRlemzgfslgyy0nTcB4FLSR2d67P4KJBA==",
+ "size": 2690077,
+ "notes": "Объёмный вид: вырезы и отверстия в подвесах и уголках, цвет металла и пластика"
 }
