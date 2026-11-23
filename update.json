@@ -1,9 +1,9 @@
 {
- "n": 2611240223,
- "v": "2026.11.24 02:23",
- "file": "tehkarta-2611240223.tkz",
- "sha256": "75a285421e7698fad06a8515751741ee2d8f1d47460562ccfef018e6f5937628",
- "sig": "Y3/CSyA0CLdx/lAZjwpk7FqH71hfMcNI+xowjgB8yPm/TwJMZNCZ1qeKdy4xj3pKRxxOs4pjMmG03aYaddAWBg==",
- "size": 2729150,
- "notes": "Фасады: площадь показывается с шестью знаками после запятой (например, 0,175956 м²) — у каждого фасада и в итоге по отделке."
+ "n": 2611240239,
+ "v": "2026.11.24 02:39",
+ "file": "tehkarta-2611240239.tkz",
+ "sha256": "19152d406cb4c443e1748c543291c7e670897ea96db65fbebf3261ad244a5f33",
+ "sig": "6GJiwG4aRhrfyzT8eJA02XLvYMqa9Dv9SNe7Zh39yhX5FIE3zu++nxqb5eHslUxWIo75M2Pg3sH2rB5DkJ1OAg==",
+ "size": 2729011,
+ "notes": "Отделка: остались только грунт и краска, лак убран везде — из окна отделки, из итогов и подписей."
 }
