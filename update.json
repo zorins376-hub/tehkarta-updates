@@ -1,9 +1,9 @@
 {
- "n": 2611240019,
- "v": "2026.11.24 00:19",
- "file": "tehkarta-2611240019.tkz",
- "sha256": "4f0ed71a1c85ab19e4bb51964bd6d36c70ced48a584df5af79510d944c7c33ba",
- "sig": "QYBv349YqnYf77Uzs8V0FTIhkP0f48iNhxr+rvRxORBvncFOUhGOiN4rmM3D5acRPFpUi0IA+5Jxt2+q/PY8Bg==",
- "size": 2718735,
- "notes": "Итог: расчётные строки без выбранного материала стоят в своём разделе и называются по типу"
+ "n": 2611240045,
+ "v": "2026.11.24 00:45",
+ "file": "tehkarta-2611240045.tkz",
+ "sha256": "de3d018aa524d0f358ce8981ae8cd954c262cd7630cf7b8c33c265d06d911b86",
+ "sig": "t80+CYyzpuU0D8FojJZf41EoOfO5ZHn30GroAmKf9jLLOnlVHJqTD8Wvk8+rKuopISXUZGQalEPO3rU730b4AQ==",
+ "size": 2722252,
+ "notes": "Фасады: отметка щелчком по модели с подсветкой, общая отделка одной кнопкой, поля Грунт / Краска / Лак и цвет на все фасады"
 }
