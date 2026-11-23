@@ -1,9 +1,9 @@
 {
- "n": 2611232005,
- "v": "2026.11.23 20:05",
- "file": "tehkarta-2611232005.tkz",
- "sha256": "90ba55a2af38d236a5b4b735ad917af6b9f341bebef39d22ccaaf56ba5636dba",
- "sig": "JeKH2iBMq3N9uluvS5m36G3gF/zsrJj0rDvEmk6haSsJB9QjkMeKqhnc/fVUueJsckA6XNOEDe4VvLVSByOiDQ==",
- "size": 2661142,
- "notes": "Правка надписей: любой щелчок по надписи в режиме «Надписи», своё окно ввода, типы материалов тоже; во всех списках материалов — «Завести новый материал»"
+ "n": 2611232007,
+ "v": "2026.11.23 20:07",
+ "file": "tehkarta-2611232007.tkz",
+ "sha256": "cc18f971eaec3fc5a811c31b04445d61393bf3d9f95f5d2c418631b9ec3db8c6",
+ "sig": "f496TwFArjgXzAvMZ0pc6OPEsd15fGqrNpy8Lkm30nF1pc6JVN6YZ1WBGTeR6kbNiBfiRslxADm0g5HTs7NaDA==",
+ "size": 2662201,
+ "notes": "Режим «Надписи»: менять можно любой текст — пояснения, подсказки в пустых полях, пустые строки списков, сообщения"
 }
