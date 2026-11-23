@@ -1,9 +1,9 @@
 {
- "n": 2611231947,
- "v": "2026.11.23 19:47",
- "file": "tehkarta-2611231947.tkz",
- "sha256": "0c2897f0838997fd8da325e3d96c2bdc09772e8aa262a0b3fe2d38f6274978f2",
- "sig": "vEtrAEy2KgitH+P2QLDK+3RPBbQLCWlnxp+isNcLZsA3nEHF4yvmhrX2ggdMiwpXA/yaQ++X1jA5YFJqnPhOBQ==",
- "size": 2659648,
- "notes": "Техкарта в Excel с оформлением для печати; режим правки надписей (кнопка «Надписи» в шапке); номер версии в шапке"
+ "n": 2611232005,
+ "v": "2026.11.23 20:05",
+ "file": "tehkarta-2611232005.tkz",
+ "sha256": "90ba55a2af38d236a5b4b735ad917af6b9f341bebef39d22ccaaf56ba5636dba",
+ "sig": "JeKH2iBMq3N9uluvS5m36G3gF/zsrJj0rDvEmk6haSsJB9QjkMeKqhnc/fVUueJsckA6XNOEDe4VvLVSByOiDQ==",
+ "size": 2661142,
+ "notes": "Правка надписей: любой щелчок по надписи в режиме «Надписи», своё окно ввода, типы материалов тоже; во всех списках материалов — «Завести новый материал»"
 }
