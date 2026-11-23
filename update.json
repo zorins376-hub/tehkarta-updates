@@ -1,9 +1,9 @@
 {
- "n": 2611232328,
- "v": "2026.11.23 23:28",
- "file": "tehkarta-2611232328.tkz",
- "sha256": "4346ebccf4d1dbde3aea4894c7fee679ef54adee6f149747e72c8712151a6978",
- "sig": "mfWFlCaAGP8KmnWhMX8Qvqu83QEj8SKuYg5z1oJ6Z7558+rTZUZIQl6Sr9asSS5EtPEaZmNF0myL10LiDEL9BQ==",
- "size": 2715736,
- "notes": "Объёмный вид: отметки отверстий стоят на своих местах"
+ "n": 2611232329,
+ "v": "2026.11.23 23:29",
+ "file": "tehkarta-2611232329.tkz",
+ "sha256": "0d20f0ffc6929cd870216444885267d5dc50686a09e1580d8b5828e9ddb6a35a",
+ "sig": "OJz9Bj6vJtcR2bxaQIr6xB7/Z3Guwr3DkYo1N3tXiZuwAu/y2T9xT5G/Hrm+iHA/UC/RoG0EdFnkPxdKV1kfAw==",
+ "size": 2716017,
+ "notes": "Документация: на титуле всегда вид спереди; отметки отверстий на своих местах"
 }
