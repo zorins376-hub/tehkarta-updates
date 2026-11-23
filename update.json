@@ -1,9 +1,9 @@
 {
- "n": 2611232139,
- "v": "2026.11.23 21:39",
- "file": "tehkarta-2611232139.tkz",
- "sha256": "accb883ad16aad3258e7c0cb9d51f1e7de18a8edbcbffe5c3e7e2d35e5ab6be0",
- "sig": "306ulSs2g/3sYpWAE7PmPsrsbSWwxKtz/AMZIs/iPgg0eTRolrlB9ItFdZnikfRu7/7Zuwm+1A+ke5GlNHrkCA==",
- "size": 2672813,
- "notes": "Модель из Базиса: направляющие (Тандем) считаются парами"
+ "n": 2611232142,
+ "v": "2026.11.23 21:42",
+ "file": "tehkarta-2611232142.tkz",
+ "sha256": "74c3a73aaf373573abf502bb48a530535f73130fb64002b74de19fe056174f87",
+ "sig": "s3hstEFfrauf+ER5s7j9iruVb7AiT63a5dnebodP+bMcHbp90qiFKfTRZmAZpw6m2/VMABLIc1N95uuGFhuhAw==",
+ "size": 2673084,
+ "notes": "Объёмный вид: фигурные детали (дно ящика с вырезом) стоят на своём месте"
 }
