@@ -1,9 +1,9 @@
 {
- "n": 2611240136,
- "v": "2026.11.24 01:36",
- "file": "tehkarta-2611240136.tkz",
- "sha256": "ec0c796e70f423a3496c9adbcc9421c006ab9f016adde0ac5140923646e1e6f3",
- "sig": "sJyZLApqCtHc8TSJUnOSlpnjCGMKJ0kXF28D1NJUepHegqYPPz20raXKnfApK7QlHX7UfunbUFDkH9DP07FAAg==",
- "size": 2728369,
- "notes": "Нормы → Окраска: у каждого слоя появилась кнопка «Удалить» (рядом с «Карточка»). При удалении предупреждает, если материал стоит в моделях, правилах, составах или отделках."
+ "n": 2611240144,
+ "v": "2026.11.24 01:44",
+ "file": "tehkarta-2611240144.tkz",
+ "sha256": "908229ef3b393263e24d160efe4fdf891deba0f465d6dbbe2b0ffc0d9e135a8f",
+ "sig": "73kuxzfNoipT7f6X5RPund4518etmK9PZ1c9JUTVpRCrr/crEHoiyLGL9wrXLV8IxCIW2fTbyeBoeXBBTKAuCw==",
+ "size": 2728031,
+ "notes": "Нормы → Окраска: норма, слои, запас и состав краски теперь правятся только в одном месте — в карточке краски. На вкладке осталась сводка по каждой краске с кнопками «Изменить» и «Удалить»."
 }
