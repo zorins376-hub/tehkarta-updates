@@ -1,9 +1,9 @@
 {
- "n": 2611232131,
- "v": "2026.11.23 21:31",
- "file": "tehkarta-2611232131.tkz",
- "sha256": "4497b5ebf92feef75c66fa5ef27a87e78a5a5f9b54aeed4a554a1a503de01c31",
- "sig": "Kyfc/nwu2zCCnNx9iddaZQlISx69qoIeRTskCE3ae4wdtspSAdv3dc5BJtwPUdQ2jGRjsNBRY+HA+Y/BRUR4AA==",
- "size": 2670976,
- "notes": "Модель из Базиса: кромка с названиями и артикулами, покупные изделия (Тандем, U-Борт и т. п.), без лишних строк-отверстий"
+ "n": 2611232135,
+ "v": "2026.11.23 21:35",
+ "file": "tehkarta-2611232135.tkz",
+ "sha256": "0ea389db2fec513ac182b87ba58af0bd7d1ecf502a6838ff4513db03c7552ddf",
+ "sig": "7I/mj8gRBUUT4yRfrDZ/Zqwo2jT+SpxFFB1xERiXqIuvjxAYo3Z3r0ote9pjhmI012ASK+90BzklC8jFw/SsDA==",
+ "size": 2671697,
+ "notes": "Модель из Базиса: новые материалы сами не заводятся — только выбранные из справочника или явное «завести новый»; точное название находится без повторов"
 }
