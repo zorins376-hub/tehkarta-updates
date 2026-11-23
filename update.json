@@ -1,9 +1,9 @@
 {
- "n": 2611231937,
- "v": "2026.11.23 19:37",
- "file": "tehkarta-2611231937.tkz",
- "sha256": "3cdde042ecfeae85cb04ea4c727417ef11359a9b970222729167a3d755db118e",
- "sig": "E6ZWEAYTvC/PWVeOk70Cb+XEt/5FqsGd9gialbBoZTnBV+sd3zP+zrm9ikhPH3hjhEJgn0CHW6YX8LgJ6Xx6Bw==",
- "size": 2439381,
- "notes": "Нормы фабрики по умолчанию: запас 10% на плиту, зеркало и стекло, кромка без запаса, клей на кромку 3,62 г/м, расходники без округления"
+ "n": 2611231940,
+ "v": "2026.11.23 19:40",
+ "file": "tehkarta-2611231940.tkz",
+ "sha256": "518aca11cfb2d690b22c235b15dd9c25adf3415b2ab2e2a372687e63b1518e76",
+ "sig": "UDrqHbrpDtOsJJtVhRfZrWOdQdZ5NakVhqQlz4JRXfd+z5XAWXnMa+3Q3EYd01PGHe5yunUW3Zk233sodNCuAQ==",
+ "size": 2440772,
+ "notes": "В шапке виден номер версии; когда выходит новая — отметка «Доступно обновление» и кнопка «Обновить сейчас»"
 }
