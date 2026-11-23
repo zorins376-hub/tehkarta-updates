@@ -1,9 +1,9 @@
 {
- "n": 2611231626,
- "v": "2026.11.23 16:26",
- "file": "tehkarta-2611231626.tkz",
- "sha256": "fb592574147fd2385e3113af2dcb6a1bbcbc875a370ae6c79e92c35f6711a726",
- "sig": "37CSXJ95h9q5g3emBfRy5g1Y8Rz1tJF4cJZnw48jNIdBm//3OT0WW/dXJwYa5dk0TaNgcMZrhPeTxl6XmhKYBQ==",
- "size": 2438963,
- "notes": "Сервер открывается по имени компьютера; развёртывание и подключение одним файлом"
+ "n": 2611231937,
+ "v": "2026.11.23 19:37",
+ "file": "tehkarta-2611231937.tkz",
+ "sha256": "3cdde042ecfeae85cb04ea4c727417ef11359a9b970222729167a3d755db118e",
+ "sig": "E6ZWEAYTvC/PWVeOk70Cb+XEt/5FqsGd9gialbBoZTnBV+sd3zP+zrm9ikhPH3hjhEJgn0CHW6YX8LgJ6Xx6Bw==",
+ "size": 2439381,
+ "notes": "Нормы фабрики по умолчанию: запас 10% на плиту, зеркало и стекло, кромка без запаса, клей на кромку 3,62 г/м, расходники без округления"
 }
