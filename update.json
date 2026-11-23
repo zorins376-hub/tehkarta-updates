@@ -1,9 +1,9 @@
 {
- "n": 2611232354,
- "v": "2026.11.23 23:54",
- "file": "tehkarta-2611232354.tkz",
- "sha256": "755480cb723e3b4304fb0cb084a0d1dadcb1a96af974d4dc6af59c013d27d764",
- "sig": "rp2cP8Iwn4qYRAtVUG5KqR2XaKftCJPj43fZuzwzFk5vt4d1Gph6Trdgyo5nQgzbQr6luc0tBYggrhKIWjZPBA==",
- "size": 2716171,
- "notes": "Новая карточка материала из списка: видно, для чего она и куда вернёшься после сохранения"
+ "n": 2611240008,
+ "v": "2026.11.24 00:08",
+ "file": "tehkarta-2611240008.tkz",
+ "sha256": "59efc41ebb57cf74895465988e6c1938807843d6c529167dc06a4a16231a3f96",
+ "sig": "laXxidJnQt+iUW1+2Ng29ElgVquZBpXCbz3ItWdkroyYeQtzqYr83oJ+J4ynLm3wOL1OmQTDJn0qz8jdPtB6BQ==",
+ "size": 2719093,
+ "notes": "Окно краски: состав смеси тремя банками — основа, отвердитель, разбавитель — с выбором материала и числом частей"
 }
