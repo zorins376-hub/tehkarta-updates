@@ -1,9 +1,9 @@
 {
- "n": 2611232323,
- "v": "2026.11.23 23:23",
- "file": "tehkarta-2611232323.tkz",
- "sha256": "98da88ea0bac2ece3c07a006f91d1ba8dca2a1eb5e1aa635ccef32897ffde566",
- "sig": "P1wlB88nHWYmvxWcpMflFzhK88XtFn+5NqCLZhc0/t2Fo45Czfdbe8/EXbMeXUbjpE8Yq/MvjjNmKRSCiXMjAg==",
- "size": 2715407,
- "notes": "Чертежи деталей: отверстия с координатами и сводкой, длинные детали горизонтально"
+ "n": 2611232325,
+ "v": "2026.11.23 23:25",
+ "file": "tehkarta-2611232325.tkz",
+ "sha256": "78ab7c56b33e9a81fc386a2daebbf48e254710fecd67c68b3ee595a3312119c3",
+ "sig": "sumOFbQXbUz4Bs4k3LfIKgf3AQVrhudiNobkx/+DeoF40Q4jznLGqtkWlP52arGTkCUmkpNrpgzhuHuzS4lpAQ==",
+ "size": 2715608,
+ "notes": "Объёмный вид: двери и фасады узнаются по положению и открываются на петлях; чертежи деталей с отверстиями"
 }
