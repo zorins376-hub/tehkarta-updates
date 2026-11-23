@@ -1,9 +1,9 @@
 {
- "n": 2611232318,
- "v": "2026.11.23 23:18",
- "file": "tehkarta-2611232318.tkz",
- "sha256": "8d72d0b96c068452d21375deefe25e52dc1a24040af3d99b6b54035343f6aa76",
- "sig": "pgbjBpOzSLs0L3Ok0d5K111yxJXjOKYm2QMi3MDsHqhrXbS5tg8hx17mp6089osKi5FtvTnh2Rwr9waPTo9dCw==",
- "size": 2712980,
- "notes": "Документация в PDF (титул, спецификация, детали, чертежи, упаковка); отверстия видны в обычном виде; логотип как на коробке"
+ "n": 2611232323,
+ "v": "2026.11.23 23:23",
+ "file": "tehkarta-2611232323.tkz",
+ "sha256": "98da88ea0bac2ece3c07a006f91d1ba8dca2a1eb5e1aa635ccef32897ffde566",
+ "sig": "P1wlB88nHWYmvxWcpMflFzhK88XtFn+5NqCLZhc0/t2Fo45Czfdbe8/EXbMeXUbjpE8Yq/MvjjNmKRSCiXMjAg==",
+ "size": 2715407,
+ "notes": "Чертежи деталей: отверстия с координатами и сводкой, длинные детали горизонтально"
 }
