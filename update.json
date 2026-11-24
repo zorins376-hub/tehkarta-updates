@@ -1,9 +1,9 @@
 {
- "n": 2611240738,
- "v": "2026.11.24 07:38",
- "file": "tehkarta-2611240738.tkz",
- "sha256": "de6e08943a1e9b70b97f940fc51abbfd665370f75d68b739277124316ef7ddec",
- "sig": "yjFgNt528SPPJxFs4nqi5bxyEr8F/U8VbhfJIItsVfj8IJBA98oU01oDs9oEl72MjuYQZeOYGgcdB5ePZSaIDg==",
- "size": 2750466,
- "notes": "Фасады: расход меньше 100 г показывается с десятыми (30,8 г вместо 31 г), чтобы цифра совпадала с «Итогом» в килограммах."
+ "n": 2611240823,
+ "v": "2026.11.24 08:23",
+ "file": "tehkarta-2611240823.tkz",
+ "sha256": "6e35f673f9acb6907e39665152a9f5786674b79fdf5921d7825baf7a1745ff13",
+ "sig": "wfKKtCUhm17eSoP0EzW3+a+zlkHAzMAVHtn7sLTbT2SCRIfciROSwFrKpMUmJeeF24ST940eN229m+npQKbxCQ==",
+ "size": 2750966,
+ "notes": "Комплектация: новое правило «Каждая коробка». Заведено готовое: клей ПВА 0,007 кг на коробку — добавляется, когда на вкладке «Упаковка» считается картон."
 }
