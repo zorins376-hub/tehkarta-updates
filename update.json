@@ -1,9 +1,9 @@
 {
- "n": 2611240550,
- "v": "2026.11.24 05:50",
- "file": "tehkarta-2611240550.tkz",
- "sha256": "ea0dba485acefa9cc9b16f1e907abc8e8d5aad56dc7d4c7f47635992bf505ace",
- "sig": "m8AY5EjEjVm7LNus8FTUPhwOHn4olYdlBxDMQ1MIlnIWIN2A/Jt1jcrOJ9WaFpN9++JRj3mBuJJMCrHPBmqdBg==",
- "size": 2750109,
- "notes": "Комплектация: новое правило «Фасад в плёнке». Заведено готовое: на модель с фасадом в плёнке — Растворитель 646, 0,015 л; на модель с крашеным фасадом остаётся 0,01 л."
+ "n": 2611240642,
+ "v": "2026.11.24 06:42",
+ "file": "tehkarta-2611240642.tkz",
+ "sha256": "702a61a58e2613d226247fff0b12501cfee53f231de84807c6821638ed0b5933",
+ "sig": "wmDO9wpQ/TFSsyM4MIygGqfLqm1d1Si22vhtHXUvlHIwAj+3JL8Tt98ffUQyqJlQTwnV6qu2/J46dYUkLk/6BQ==",
+ "size": 2750278,
+ "notes": "Упаковка: если изделие стоя не проходит ни в один рулон (высокий пенал), коробка сама считается лёжа — на боку или на спине, с пометкой об этом."
 }
