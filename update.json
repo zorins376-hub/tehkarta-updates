@@ -1,9 +1,9 @@
 {
- "n": 2611242135,
- "v": "2026.11.24 21:35",
- "file": "tehkarta-2611242135.tkz",
- "sha256": "045f613ac4348962ffeda297123e2761ed63c3f6d7086328e90cebe43f108148",
- "sig": "G4MIHTd1Pavmg4dpoV4TuQArLifdeyv6x/y0Q2m6fl7HCEwbMyk9dR4Xjbg0Q2IrxHL56dxK4XKkT3wTVA5TBg==",
- "size": 2754757,
- "notes": "Упаковка: на крашеное изделие добавляется пенопласт в м² — один лист по размеру переда и по листу на каждую боковину."
+ "n": 2611242149,
+ "v": "2026.11.24 21:49",
+ "file": "tehkarta-2611242149.tkz",
+ "sha256": "c7508af1bd65ff9781d345448c611e297c2e69e96f3a2eb5ded7d2ca20c2f7fb",
+ "sig": "OndgCt4icKwtiv9p9r6JUwcpwURvR8yql8MRsFrPxVzzaBi2iD6TxIuR1CDKdIx4/6vV3A7jgRag0RyKmSDpCg==",
+ "size": 2754815,
+ "notes": "Упаковка: пенал всегда идёт в трёхслойный картон, даже крашеный."
 }
