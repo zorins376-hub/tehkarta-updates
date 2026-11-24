@@ -1,9 +1,9 @@
 {
- "n": 2611242149,
- "v": "2026.11.24 21:49",
- "file": "tehkarta-2611242149.tkz",
- "sha256": "c7508af1bd65ff9781d345448c611e297c2e69e96f3a2eb5ded7d2ca20c2f7fb",
- "sig": "OndgCt4icKwtiv9p9r6JUwcpwURvR8yql8MRsFrPxVzzaBi2iD6TxIuR1CDKdIx4/6vV3A7jgRag0RyKmSDpCg==",
- "size": 2754815,
- "notes": "Упаковка: пенал всегда идёт в трёхслойный картон, даже крашеный."
+ "n": 2611242240,
+ "v": "2026.11.24 22:40",
+ "file": "tehkarta-2611242240.tkz",
+ "sha256": "23e860375ac8484ac505b8a0a3679dca51d917967658f785a3f4c1279a469e3b",
+ "sig": "Wod1KMkjG/77/9UoCUEadqoWB4G1vrAhf1+evRqo7LZ1osDS8rB3rPl75UEVF1w4Nr+bUPAMiPp7jgG194eqAA==",
+ "size": 2755140,
+ "notes": "Упаковка: картон называется по-фабричному — Т23-1150*880, *1100, *1250 (3 слоя) и П34-1150*1100, *1250 (5 слоёв). Название подставляется само по выбранному рулону, у каждой ширины свой материал и своя цена."
 }
