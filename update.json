@@ -1,9 +1,9 @@
 {
- "n": 2611242133,
- "v": "2026.11.24 21:33",
- "file": "tehkarta-2611242133.tkz",
- "sha256": "6691e5e4df5287dc565429f0a4b3878af008a26c91a0d19e05f36f16ba8311ea",
- "sig": "Jt86aUlvnaJ9UFfc06DnsJH2CX8KTS0zDxUaDGUkgARJlHEyNiT2mUZV48l/gDJuA7IAdWfJu1k4K/n6eL/ZAw==",
- "size": 2753964,
- "notes": "Исправлено: уголков картонных 80×80 на крашеное изделие — 8 штук, а не 80."
+ "n": 2611242134,
+ "v": "2026.11.24 21:34",
+ "file": "tehkarta-2611242134.tkz",
+ "sha256": "8097a67743a904ceff5ec49f7e3c7b52634a3868b50dd8900b82feb7cc938360",
+ "sig": "QkGW/UadAewIelj8CRACCHnAEZBOb25p/q15qN9xf74p9L296IbQVb/fHynnbu7hvX+nTPMmc251+msSRTENDA==",
+ "size": 2754151,
+ "notes": "Комплектация: у правил «на изделие» появилось исключение — «кроме моделей, в названии которых есть слово». Картонный уголок на крашеное изделие больше не добавляется пеналам."
 }
