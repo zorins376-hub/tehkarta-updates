@@ -1,9 +1,9 @@
 {
- "n": 2611242131,
- "v": "2026.11.24 21:31",
- "file": "tehkarta-2611242131.tkz",
- "sha256": "8c920307d1a3491b3750356907d965fbaceed85bc17874a1704b8d1f87d4bddf",
- "sig": "OIWhPBQ1+FcUv10lfTtoUXJS2UncPBgW/gMahsMt077vTU0yzyiX3Hc9BdRFjo7mxFPGkxKA1VBGu52hbO7GAw==",
- "size": 2753826,
- "notes": "Упаковка: картон выбирается по отделке. Крашеное изделие — пятислойный картон, рулоны 1100 и 1250; изделие в обоях и остальные — трёхслойный, рулоны 880, 1100, 1250. На крашеное изделие добавляется уголок картонный 80×80."
+ "n": 2611242133,
+ "v": "2026.11.24 21:33",
+ "file": "tehkarta-2611242133.tkz",
+ "sha256": "6691e5e4df5287dc565429f0a4b3878af008a26c91a0d19e05f36f16ba8311ea",
+ "sig": "Jt86aUlvnaJ9UFfc06DnsJH2CX8KTS0zDxUaDGUkgARJlHEyNiT2mUZV48l/gDJuA7IAdWfJu1k4K/n6eL/ZAw==",
+ "size": 2753964,
+ "notes": "Исправлено: уголков картонных 80×80 на крашеное изделие — 8 штук, а не 80."
 }
