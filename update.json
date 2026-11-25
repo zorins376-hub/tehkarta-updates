@@ -1,9 +1,9 @@
 {
- "n": 2611252029,
- "v": "2026.11.25 20:29",
- "file": "tehkarta-2611252029.tkz",
- "sha256": "f6f7a09e10428e9a31b910d4ac97c24b1bd7e8d48eee9b237f394826f04c3181",
- "sig": "vdseMVp6kxrNA+W4ZrFSzhHPvZYibUKYQbkhrijlJm4Ma+mcNm0xsfFYiQrG3aq80idc5Oxf9SeUPEbDEMDsCQ==",
- "size": 2779672,
- "notes": "Защита базы: шифрование AES-256 и флешка-ключ владельца (включается в окне «Совместная работа» → «Защита базы»)"
+ "n": 2611252047,
+ "v": "2026.11.25 20:47",
+ "file": "tehkarta-2611252047.tkz",
+ "sha256": "32afae2d90fd2212373cf49ca5f172dffd50ed986a18c4492ef677d66b58e537",
+ "sig": "Fi/gj/bGMuLDAp7cxCQCl8ec7RVQH/26rAbcBEzhWgjWRZp0zGEidxWtlntzx9e62IzMv0+stpQB7Jo5zq9xCA==",
+ "size": 2779696,
+ "notes": "В заказе «Добавить позицию» и «Добавить файлы Базиса» перенесены наверх, над карточками"
 }
