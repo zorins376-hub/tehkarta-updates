@@ -1,9 +1,9 @@
 {
- "n": 2611251451,
- "v": "2026.11.25 14:51",
- "file": "tehkarta-2611251451.tkz",
- "sha256": "1e5a2bbee62482c3e69173f9210c003260f451b85480aae92fafb3011a1468b5",
- "sig": "h8lh9mFETAWFN7G7mwk1HTapqfzypkmgy55E4Anv1Sscy4aEornH4GlmxNctGxlDYzAfKc6+9cXKJVXd4nxCCg==",
- "size": 2760600,
- "notes": "Модель, которая стоит в заказе, больше не стирается при удалении из каталога ни с одного компьютера, даже со старой необновлённой страницы."
+ "n": 2611251544,
+ "v": "2026.11.25 15:44",
+ "file": "tehkarta-2611251544.tkz",
+ "sha256": "4c27516349a61592c152c04738f3fc707a593cc322fc780e58eddf13e9681d7f",
+ "sig": "jTakx1c6FxDIaQDwRUrr5WqtaeaOY9/SljLyXy2Zu+OZ7ZepMiXFbmqqSrgoDv5Cf7BtILXtqEPtEWT2ycoQAg==",
+ "size": 2761736,
+ "notes": "Модель, убранная из каталога, запоминает свои материалы как были: правки справочника и отделок до неё в заказе больше не доходят."
 }
