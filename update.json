@@ -1,9 +1,9 @@
 {
- "n": 2611251440,
- "v": "2026.11.25 14:40",
- "file": "tehkarta-2611251440.tkz",
- "sha256": "0cbc8e36780d12c1ccea36d490016eaf169d497fe4996313ee8f1935d7ea037a",
- "sig": "1ZIJkVl2khNGXh1kEclmMJbrXpW72/6zInRX+Gc3L0e5P+F28u9d5ZPtpi3/hYlyifzqSAwF1+elAfrZ2SzKBA==",
- "size": 2757855,
- "notes": "Картинка на карточке каталога теперь та же, что в окне 3D-модели: цвета совпадают. Своё загруженное фото остаётся главным."
+ "n": 2611251442,
+ "v": "2026.11.25 14:42",
+ "file": "tehkarta-2611251442.tkz",
+ "sha256": "41907d3f9a3165863367ba9f0c9801d046a8d6e98b70efb6232ef6d2d061a48e",
+ "sig": "jR/rL5P4I16m82j6IsDwd5rQ0sWv8OppoIvaogHonnhlZk5SJ9R4TKz8krXiMita9GRahzoZoBTleoUXxeOYBw==",
+ "size": 2758875,
+ "notes": "Каталог и заказы больше не удаляют друг у друга: модель, убранная из каталога, остаётся в заказах, где она стоит, и её можно вернуть в каталог."
 }
