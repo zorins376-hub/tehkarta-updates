@@ -1,9 +1,9 @@
 {
- "n": 2611251444,
- "v": "2026.11.25 14:44",
- "file": "tehkarta-2611251444.tkz",
- "sha256": "df4c9c6dfc1d668a2ff19d44ab486ee3296ce26a0acdd469baa0384edd597465",
- "sig": "fMvFjzLx+h8pt4TGxa++sGr9JNsW0gnicy7zfeSMP5qxuCwhrnr/rKKlGIBsI4kZiIrznBaNTnCYtrWcmiqyAA==",
- "size": 2760272,
- "notes": "Картинки в каталоге перерисовываются сами в тех же цветах, что и 3D-вид модели — открывать каждую модель не нужно."
+ "n": 2611251451,
+ "v": "2026.11.25 14:51",
+ "file": "tehkarta-2611251451.tkz",
+ "sha256": "1e5a2bbee62482c3e69173f9210c003260f451b85480aae92fafb3011a1468b5",
+ "sig": "h8lh9mFETAWFN7G7mwk1HTapqfzypkmgy55E4Anv1Sscy4aEornH4GlmxNctGxlDYzAfKc6+9cXKJVXd4nxCCg==",
+ "size": 2760600,
+ "notes": "Модель, которая стоит в заказе, больше не стирается при удалении из каталога ни с одного компьютера, даже со старой необновлённой страницы."
 }
