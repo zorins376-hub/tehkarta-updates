@@ -1,9 +1,9 @@
 {
- "n": 2611251753,
- "v": "2026.11.25 17:53",
- "file": "tehkarta-2611251753.tkz",
- "sha256": "fd6aaf957cc38c233777e4bfc636bb3bec89c1755b39a3a232a2ef0c2432366b",
- "sig": "Yncb2q4ZpS0qtwNCLtje4arEcPtvzdsB3eirqJav9tzDdGJ8li6C0rZ9ezCA90QLWyyYTq59MfjrfzFhtRTrCQ==",
- "size": 2763636,
- "notes": "Заказ хранит свою техкарту: правки модели в каталоге в заказ не идут, пока не нажать «Обновить из каталога»"
+ "n": 2611251756,
+ "v": "2026.11.25 17:56",
+ "file": "tehkarta-2611251756.tkz",
+ "sha256": "2d7b41a67f6e11246cc73027983812312548846a5cc21639ddd6ca76a0b2f617",
+ "sig": "2rVbwUibBkqayCqLoIirlvhpDS4CPMVtWHDuFlpntLjiLBz0DDZYlRyWfdRE1icfLcWhow8z43CfPg7veXjHAg==",
+ "size": 2764115,
+ "notes": "Готовую отделку можно изменить только в одной модели, не трогая остальные"
 }
