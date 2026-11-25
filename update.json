@@ -1,9 +1,9 @@
 {
- "n": 2611251307,
- "v": "2026.11.25 13:07",
- "file": "tehkarta-2611251307.tkz",
- "sha256": "ce90beaba21d51104cdf3b68177908831970c7b533b5e53ad3e2f9b7dcc765e1",
- "sig": "CWCKN+1MQCKJp6G+u67SDRKNFZ8PGOMj1nf8ZwaRru/a3cUKDFknlifd+YJwJAUtjgjhKiLetu4Ctll1IfRoCQ==",
- "size": 2757605,
- "notes": "Комплектация: на изделие в обоях добавляется наждак Мирка 0,13 шт (на крашеное остаётся 2,5 шт)."
+ "n": 2611251440,
+ "v": "2026.11.25 14:40",
+ "file": "tehkarta-2611251440.tkz",
+ "sha256": "0cbc8e36780d12c1ccea36d490016eaf169d497fe4996313ee8f1935d7ea037a",
+ "sig": "1ZIJkVl2khNGXh1kEclmMJbrXpW72/6zInRX+Gc3L0e5P+F28u9d5ZPtpi3/hYlyifzqSAwF1+elAfrZ2SzKBA==",
+ "size": 2757855,
+ "notes": "Картинка на карточке каталога теперь та же, что в окне 3D-модели: цвета совпадают. Своё загруженное фото остаётся главным."
 }
