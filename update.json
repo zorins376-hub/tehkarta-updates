@@ -1,9 +1,9 @@
 {
- "n": 2611251303,
- "v": "2026.11.25 13:03",
- "file": "tehkarta-2611251303.tkz",
- "sha256": "01e37ce91b25accde3162a7ee146caf0b36bdba1ae0e4ae13d031c24b2a7d729",
- "sig": "KmIDXXop14r/q4NXFtpHC+W6Mwp08OwzYu9nwx55gGzZ8OuZa3dhfsPFgtgMaxbO9+DhfGCekDrIAYllsyLtDA==",
- "size": 2757257,
- "notes": "Обои (плёнка): возвращён припуск на каждую сторону, по умолчанию 50 мм. Расход считается так: площадь фасада с припуском, сверху запас в процентах (17,94 %). Припуск задаётся в «Нормы → По типам» и в карточке плёнки."
+ "n": 2611251307,
+ "v": "2026.11.25 13:07",
+ "file": "tehkarta-2611251307.tkz",
+ "sha256": "ce90beaba21d51104cdf3b68177908831970c7b533b5e53ad3e2f9b7dcc765e1",
+ "sig": "CWCKN+1MQCKJp6G+u67SDRKNFZ8PGOMj1nf8ZwaRru/a3cUKDFknlifd+YJwJAUtjgjhKiLetu4Ctll1IfRoCQ==",
+ "size": 2757605,
+ "notes": "Комплектация: на изделие в обоях добавляется наждак Мирка 0,13 шт (на крашеное остаётся 2,5 шт)."
 }
