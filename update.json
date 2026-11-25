@@ -1,9 +1,9 @@
 {
- "n": 2611251756,
- "v": "2026.11.25 17:56",
- "file": "tehkarta-2611251756.tkz",
- "sha256": "2d7b41a67f6e11246cc73027983812312548846a5cc21639ddd6ca76a0b2f617",
- "sig": "2rVbwUibBkqayCqLoIirlvhpDS4CPMVtWHDuFlpntLjiLBz0DDZYlRyWfdRE1icfLcWhow8z43CfPg7veXjHAg==",
- "size": 2764115,
- "notes": "Готовую отделку можно изменить только в одной модели, не трогая остальные"
+ "n": 2611251758,
+ "v": "2026.11.25 17:58",
+ "file": "tehkarta-2611251758.tkz",
+ "sha256": "e9077eba2f1751ad0afe14b17232dbaf803f76a04b9c253085440fe084356a8f",
+ "sig": "kbAuK65/SZMsuOeHORB2PB2ph5FEbdB0EXOVi8Xm5Yw30l6MC13o6Mb3LI6KP7AGPV6aLlb2FuveCE7v49eUAQ==",
+ "size": 2764049,
+ "notes": "Готовая отделка ставится в модель копией: правка отделки больше не меняет другие модели"
 }
