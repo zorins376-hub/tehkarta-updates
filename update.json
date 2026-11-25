@@ -1,9 +1,9 @@
 {
- "n": 2611251758,
- "v": "2026.11.25 17:58",
- "file": "tehkarta-2611251758.tkz",
- "sha256": "e9077eba2f1751ad0afe14b17232dbaf803f76a04b9c253085440fe084356a8f",
- "sig": "kbAuK65/SZMsuOeHORB2PB2ph5FEbdB0EXOVi8Xm5Yw30l6MC13o6Mb3LI6KP7AGPV6aLlb2FuveCE7v49eUAQ==",
- "size": 2764049,
- "notes": "Готовая отделка ставится в модель копией: правка отделки больше не меняет другие модели"
+ "n": 2611252029,
+ "v": "2026.11.25 20:29",
+ "file": "tehkarta-2611252029.tkz",
+ "sha256": "f6f7a09e10428e9a31b910d4ac97c24b1bd7e8d48eee9b237f394826f04c3181",
+ "sig": "vdseMVp6kxrNA+W4ZrFSzhHPvZYibUKYQbkhrijlJm4Ma+mcNm0xsfFYiQrG3aq80idc5Oxf9SeUPEbDEMDsCQ==",
+ "size": 2779672,
+ "notes": "Защита базы: шифрование AES-256 и флешка-ключ владельца (включается в окне «Совместная работа» → «Защита базы»)"
 }
