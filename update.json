@@ -1,9 +1,9 @@
 {
- "n": 2611252047,
- "v": "2026.11.25 20:47",
- "file": "tehkarta-2611252047.tkz",
- "sha256": "32afae2d90fd2212373cf49ca5f172dffd50ed986a18c4492ef677d66b58e537",
- "sig": "Fi/gj/bGMuLDAp7cxCQCl8ec7RVQH/26rAbcBEzhWgjWRZp0zGEidxWtlntzx9e62IzMv0+stpQB7Jo5zq9xCA==",
- "size": 2779696,
- "notes": "В заказе «Добавить позицию» и «Добавить файлы Базиса» перенесены наверх, над карточками"
+ "n": 2611261341,
+ "v": "2026.11.26 13:41",
+ "file": "tehkarta-2611261341.tkz",
+ "sha256": "0e120284fdf619df4f3cb2f1a438e599450d78a5e62685bf797081bc30cb41ce",
+ "sig": "JuQxCMXYGOda6JRGAau0GrcleU3NVGBNKHksotciSAUy2MFpNfF5Cg3LOqESmDXs35EnUTdYEZ+mQ03P/hJDCw==",
+ "size": 2780003,
+ "notes": "В итоговую спецификацию модели и заказа добавлена строка «Шлифовка-Грунд-Краска-Полировка М2»: площадь деталей под краску и плёнку"
 }
