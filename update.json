@@ -1,9 +1,9 @@
 {
- "n": 2611261419,
- "v": "2026.11.26 14:19",
- "file": "tehkarta-2611261419.tkz",
- "sha256": "4013812a76f91cf1d0d07e8bf91e63d0b417f1e0026f7bd99b3108ebc329592b",
- "sig": "fCHNKlXIVlX1hVhQ6Atd/KMH2ArbZu/alm6QHIw9MvnJoIuQNCFhY9C9QqI1zQalU9s/w71bkMKIDgvAuRfnDg==",
- "size": 2785837,
- "notes": "В сводку заказа добавлен столбец «Обои (плёнка)» — показывается, если обои в заказе есть"
+ "n": 2611261423,
+ "v": "2026.11.26 14:23",
+ "file": "tehkarta-2611261423.tkz",
+ "sha256": "f42a29a093ce2df11d125243fdea469e995e61d18931da3e4502686731b91daf",
+ "sig": "81iRMPU3ybFpiku1qgJx9/Vb4xLtTqmVYzCvPYF0SYClI1ylKm06Kz6NiUPVQ0yI1XlE0tkRhdl7+QDIXdGlCA==",
+ "size": 2786614,
+ "notes": "Логотип LAMIS, как на коробке, в шапке программы, на странице входа и в названии вкладки; название компании в техкарте Excel и бланке заказа"
 }
