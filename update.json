@@ -1,9 +1,9 @@
 {
- "n": 2611261813,
- "v": "2026.11.26 18:13",
- "file": "tehkarta-2611261813.tkz",
- "sha256": "84fff13b37cec76efdf8d948fb53f45eb502243406f0886cef6c285bc78f4f57",
- "sig": "RwBNw0iVr072U8FETXAaUjVj3cybbx+6p9C8qJSvU8q6jM67T9Ewr5+2uJZr0rSnKdNA+mXiiKylvPTT7tkUCA==",
- "size": 2831232,
- "notes": "Строка изолятора есть у грунтовщика в каждом заказе с окраской, даже если карточки изолятора в справочнике нет"
+ "n": 2611261912,
+ "v": "2026.11.26 19:12",
+ "file": "tehkarta-2611261912.tkz",
+ "sha256": "f3432fcccf9cc7d54feae480671e5d465c9813da19829c0d0b15c6f7607b741c",
+ "sig": "6xMRbo1WvsUgb1Zai0vevhl3sLumr0fe9Au6kreSQnAoHLx04OxkBnJMJpKg4I2ZJwwhIcmt0aBG1dgC31LrBg==",
+ "size": 2831565,
+ "notes": "Заголовки «Грунт», «Краска», названия красок в замесах и итог квадратуры — крупнее и красным"
 }
