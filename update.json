@@ -1,9 +1,9 @@
 {
- "n": 2611261806,
- "v": "2026.11.26 18:06",
- "file": "tehkarta-2611261806.tkz",
- "sha256": "136e86866dee98bedc8ff3d1e4f809e62da2a0956534bb6d2cce9a5914a0bbb7",
- "sig": "T+oMnZgDaD/Hu9ufxZW7LN/HuiiZVeJJSq9pCqrsUZCnrQNf3Gpai3g4nqFqXWF2S+1pVjhcYwuX3RZ6t36fAQ==",
- "size": 2831110,
- "notes": "Изолятор: строка без нормы у грунтовщика в каждом заказе с окраской — впишет вес, и он начнёт считаться в факте"
+ "n": 2611261813,
+ "v": "2026.11.26 18:13",
+ "file": "tehkarta-2611261813.tkz",
+ "sha256": "84fff13b37cec76efdf8d948fb53f45eb502243406f0886cef6c285bc78f4f57",
+ "sig": "RwBNw0iVr072U8FETXAaUjVj3cybbx+6p9C8qJSvU8q6jM67T9Ewr5+2uJZr0rSnKdNA+mXiiKylvPTT7tkUCA==",
+ "size": 2831232,
+ "notes": "Строка изолятора есть у грунтовщика в каждом заказе с окраской, даже если карточки изолятора в справочнике нет"
 }
