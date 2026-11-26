@@ -1,9 +1,9 @@
 {
- "n": 2611261341,
- "v": "2026.11.26 13:41",
- "file": "tehkarta-2611261341.tkz",
- "sha256": "0e120284fdf619df4f3cb2f1a438e599450d78a5e62685bf797081bc30cb41ce",
- "sig": "JuQxCMXYGOda6JRGAau0GrcleU3NVGBNKHksotciSAUy2MFpNfF5Cg3LOqESmDXs35EnUTdYEZ+mQ03P/hJDCw==",
- "size": 2780003,
- "notes": "В итоговую спецификацию модели и заказа добавлена строка «Шлифовка-Грунд-Краска-Полировка М2»: площадь деталей под краску и плёнку"
+ "n": 2611261343,
+ "v": "2026.11.26 13:43",
+ "file": "tehkarta-2611261343.tkz",
+ "sha256": "93f2179ee0bbae26be435cd5630e9f84e8fd3b106788734eddeffcbe59772609",
+ "sig": "STzlHkeo/++spcFouoKexbDkgJTlTC6xgNI/zq/DwB24T/90zZSBi0SblzRmf3RVTj5DeM5Lw1OPJ5iYzxLmDQ==",
+ "size": 2784045,
+ "notes": "Выгрузка для 1С в папку, которая задаётся один раз в окне «Совместная работа»; кнопка «Для 1С» появилась и в заказе"
 }
