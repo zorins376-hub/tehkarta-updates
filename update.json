@@ -1,9 +1,9 @@
 {
- "n": 2611261615,
- "v": "2026.11.26 16:15",
- "file": "tehkarta-2611261615.tkz",
- "sha256": "dda0db683d9b0991f8f41656deda9dd915cacaac0a740a74dee900b1e4cb746a",
- "sig": "jynz+9WyohSdmoq52adLhzXEojinwB+GnSjJ17jtF5O2sAUmgaaxXonGlk8KkdWGAJVpA7y867m7fycnPz55AA==",
- "size": 2815804,
- "notes": "Окно маляра: отдельный вход с ролью «маляр» — видит только свои заказы и вписывает, сколько грунта и краски ушло; в заказе под замесами — факт маляра и расхождение с расчётом"
+ "n": 2611261624,
+ "v": "2026.11.26 16:24",
+ "file": "tehkarta-2611261624.tkz",
+ "sha256": "2b545eac9ff571f5725d9a8042ba81f283e7aec9e10a5fddbf6f3f8e59be499b",
+ "sig": "4Dv9yQo9zFedAcXQkkIlZsGSZMyYFMaacPncjtFOeIX4QZX2cjvXjXcwKKHaoVbOUD5xvPwkEXcPOqxm9F2QAA==",
+ "size": 2821349,
+ "notes": "Папка для 1С выбирается окном Windows или обзором папок главного компьютера — путь вписывать не нужно; причина отказа при сохранении остаётся на экране"
 }
