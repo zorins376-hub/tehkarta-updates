@@ -1,9 +1,9 @@
 {
- "n": 2611261406,
- "v": "2026.11.26 14:06",
- "file": "tehkarta-2611261406.tkz",
- "sha256": "dc02aa248f15a7ff1e6f4499769c7cf6ce5b71e9e821179529323aa0a65d6d81",
- "sig": "jGeW5zuKC1rPMgtoRbE+xB3BoykMJaWj/n7QSqYi0x/G1YsUzIM7bT13USINtTMoYgEMCV56MARlQDEw6dEYCQ==",
- "size": 2785717,
- "notes": "В сводке грунта и краски названия больше не переносятся на вторую строку"
+ "n": 2611261419,
+ "v": "2026.11.26 14:19",
+ "file": "tehkarta-2611261419.tkz",
+ "sha256": "4013812a76f91cf1d0d07e8bf91e63d0b417f1e0026f7bd99b3108ebc329592b",
+ "sig": "fCHNKlXIVlX1hVhQ6Atd/KMH2ArbZu/alm6QHIw9MvnJoIuQNCFhY9C9QqI1zQalU9s/w71bkMKIDgvAuRfnDg==",
+ "size": 2785837,
+ "notes": "В сводку заказа добавлен столбец «Обои (плёнка)» — показывается, если обои в заказе есть"
 }
