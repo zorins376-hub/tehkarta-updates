@@ -1,9 +1,9 @@
 {
- "n": 2611261423,
- "v": "2026.11.26 14:23",
- "file": "tehkarta-2611261423.tkz",
- "sha256": "f42a29a093ce2df11d125243fdea469e995e61d18931da3e4502686731b91daf",
- "sig": "81iRMPU3ybFpiku1qgJx9/Vb4xLtTqmVYzCvPYF0SYClI1ylKm06Kz6NiUPVQ0yI1XlE0tkRhdl7+QDIXdGlCA==",
- "size": 2786614,
- "notes": "Логотип LAMIS, как на коробке, в шапке программы, на странице входа и в названии вкладки; название компании в техкарте Excel и бланке заказа"
+ "n": 2611261430,
+ "v": "2026.11.26 14:30",
+ "file": "tehkarta-2611261430.tkz",
+ "sha256": "be2e7a15f525cb4e1dc4c0def9a933f62fccea4076ded252636dd7c30bf1ea7e",
+ "sig": "WaGCzvCySxaKpjiyOl85ZW2Sat/KTzeOh0xLPZ1oxpAcoN+eMf3xP+IadeunLDSci+Yri8o2BrSvlPh5U2vPBw==",
+ "size": 2788252,
+ "notes": "Шаги назад и вперёд: Ctrl+Z отменяет последнюю правку в моделях, заказах, материалах и нормах, Ctrl+Y возвращает"
 }
