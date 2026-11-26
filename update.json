@@ -1,9 +1,9 @@
 {
- "n": 2611261629,
- "v": "2026.11.26 16:29",
- "file": "tehkarta-2611261629.tkz",
- "sha256": "2abb6f1ceae19ab947efd4bff33589167e24d87404d3a19f75e13907138f9993",
- "sig": "gMjjWzS+SyywG2RKwz7an1NPqIeSMfnWryY5px40h901NY3vUWzy27+t4ivVLse6Y2cb3M+meA4EQ3xzNpZaDg==",
- "size": 2823010,
- "notes": "Чёрному грунту AkzoNobel состав вписывается сам: 100 : 33 : 33 — отвердитель AkzoNobel, растворитель 647"
+ "n": 2611261635,
+ "v": "2026.11.26 16:35",
+ "file": "tehkarta-2611261635.tkz",
+ "sha256": "7c1b3e2711a0ca8e190bcfe9a838ba394b21185e074a997974af13cab9eef1e1",
+ "sig": "E4XI3ysjfgZVQeoI4xRUWrEw//9929oe2kc4rK6MzD+KXxA51IYQAy5I61OaP/PiRxcgsp6A09DAp8YM2tmHBg==",
+ "size": 2823973,
+ "notes": "Блок «Замесы на весь заказ» можно скрыть кнопкой «Скрыть» — сворачивается в одну строку во всех заказах на этом компьютере"
 }
