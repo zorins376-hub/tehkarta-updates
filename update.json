@@ -1,9 +1,9 @@
 {
- "n": 2611261912,
- "v": "2026.11.26 19:12",
- "file": "tehkarta-2611261912.tkz",
- "sha256": "f3432fcccf9cc7d54feae480671e5d465c9813da19829c0d0b15c6f7607b741c",
- "sig": "6xMRbo1WvsUgb1Zai0vevhl3sLumr0fe9Au6kreSQnAoHLx04OxkBnJMJpKg4I2ZJwwhIcmt0aBG1dgC31LrBg==",
- "size": 2831565,
- "notes": "Заголовки «Грунт», «Краска», названия красок в замесах и итог квадратуры — крупнее и красным"
+ "n": 2611261916,
+ "v": "2026.11.26 19:16",
+ "file": "tehkarta-2611261916.tkz",
+ "sha256": "6069413d4a98b7ee8f3994cf680f2d19cdbae3c9e76c8eb878765f0369c42974",
+ "sig": "wMoWrUUBmCdxWHnfz9ZYkL1Htsy57tTxru/TieE1UTM3Diw2Nl79Eaw5r7RoVKPbeRPbmuOjG8oF6C2dw6Z+Ag==",
+ "size": 2836348,
+ "notes": "Окно маляра: вписанное без связи сохраняется в телефоне и уходит на сервер само; значок и запуск как приложение"
 }
