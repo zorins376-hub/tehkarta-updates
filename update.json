@@ -1,9 +1,9 @@
 {
- "n": 2611261352,
- "v": "2026.11.26 13:52",
- "file": "tehkarta-2611261352.tkz",
- "sha256": "64463130efdd2642276140136e0fa597ac56c808f8aa21ad93715262b5e407b8",
- "sig": "AqsuftM42euSy5sM10uTdZZ/dFyCLpKbyk/IYCoWuvAzHzH1JRCjCTknUJDgM3s7l8PP8HyInvumHOt8mOc9BQ==",
- "size": 2784508,
- "notes": "В сводке краски и грунта по заказу больше нет растворителя, отвердителя и разбавителя"
+ "n": 2611261356,
+ "v": "2026.11.26 13:56",
+ "file": "tehkarta-2611261356.tkz",
+ "sha256": "d43f24b8b3589427d38f701344d1a9bef535a04c4ad55d1ef266642dd016792f",
+ "sig": "pRwML+rH6gNW2FLrtbYbtZ3kEJqi8Epp2iBTiZzo7f8GQ933WwvupkUxtZ1DQkbC9Iqt6ux75IKl11pyucvcAQ==",
+ "size": 2785435,
+ "notes": "В итоге «МДФ М 16 (гладкий)» складывается с «МДФ L 16 (2 сторон)» в одну строку; в карточке материала появилось поле «В итоге складывать с»"
 }
