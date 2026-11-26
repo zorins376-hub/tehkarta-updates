@@ -1,9 +1,9 @@
 {
- "n": 2611261750,
- "v": "2026.11.26 17:50",
- "file": "tehkarta-2611261750.tkz",
- "sha256": "e654a6bcb92da5acd4543fc3cd8b98bb2fcb81e1768dafda7409f27306c00298",
- "sig": "1ZSdb0GfT6ftStim0CxR/iRiTm+l1N9oiOpXcFh//fv+bNG2pIzaVu27Ol2QWbg6v1wEHeIck+KEgHLn5KiRDw==",
- "size": 2830428,
- "notes": "Этап «Второй грунт» убран: у маляра и в заказе остались «Грунт» и «Окраска», на грунт идёт полный расчёт"
+ "n": 2611261806,
+ "v": "2026.11.26 18:06",
+ "file": "tehkarta-2611261806.tkz",
+ "sha256": "136e86866dee98bedc8ff3d1e4f809e62da2a0956534bb6d2cce9a5914a0bbb7",
+ "sig": "T+oMnZgDaD/Hu9ufxZW7LN/HuiiZVeJJSq9pCqrsUZCnrQNf3Gpai3g4nqFqXWF2S+1pVjhcYwuX3RZ6t36fAQ==",
+ "size": 2831110,
+ "notes": "Изолятор: строка без нормы у грунтовщика в каждом заказе с окраской — впишет вес, и он начнёт считаться в факте"
 }
