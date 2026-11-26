@@ -1,9 +1,9 @@
 {
- "n": 2611261359,
- "v": "2026.11.26 13:59",
- "file": "tehkarta-2611261359.tkz",
- "sha256": "2787d947529c38bad222b2db998ea770e6a08b515525af6301f1d1d2cc29d4fa",
- "sig": "Zmng5RdaCdpDpDGz/cAtqyHJfzSuUb6WyMv5CsKkJbC1FInegMcpQscCw1LMjQCA9XN+pGHPpWBr1qXt2K2zCQ==",
- "size": 2785481,
- "notes": "Сложение материалов в итоге работает и в уже введённых заказах; стоимость на вкладке «Спецификация» считается по цене общего материала"
+ "n": 2611261402,
+ "v": "2026.11.26 14:02",
+ "file": "tehkarta-2611261402.tkz",
+ "sha256": "3d990c61cf876110f3d579fb29b182453cca7d37333ed1e1ced5e0e6f2e5284c",
+ "sig": "xEEg0aEulN79L12C+XajmiR+DOqPSTqCjMtgP9nV54deCG2kqOqqo9s27IKkpybOpMr++Ofy/sCLDR73W9OZBQ==",
+ "size": 2785700,
+ "notes": "Сводка по заказу разделена на два столбца: сначала грунт, потом краска"
 }
