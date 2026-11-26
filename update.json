@@ -1,9 +1,9 @@
 {
- "n": 2611261402,
- "v": "2026.11.26 14:02",
- "file": "tehkarta-2611261402.tkz",
- "sha256": "3d990c61cf876110f3d579fb29b182453cca7d37333ed1e1ced5e0e6f2e5284c",
- "sig": "xEEg0aEulN79L12C+XajmiR+DOqPSTqCjMtgP9nV54deCG2kqOqqo9s27IKkpybOpMr++Ofy/sCLDR73W9OZBQ==",
- "size": 2785700,
- "notes": "Сводка по заказу разделена на два столбца: сначала грунт, потом краска"
+ "n": 2611261406,
+ "v": "2026.11.26 14:06",
+ "file": "tehkarta-2611261406.tkz",
+ "sha256": "dc02aa248f15a7ff1e6f4499769c7cf6ce5b71e9e821179529323aa0a65d6d81",
+ "sig": "jGeW5zuKC1rPMgtoRbE+xB3BoykMJaWj/n7QSqYi0x/G1YsUzIM7bT13USINtTMoYgEMCV56MARlQDEw6dEYCQ==",
+ "size": 2785717,
+ "notes": "В сводке грунта и краски названия больше не переносятся на вторую строку"
 }
