@@ -1,9 +1,9 @@
 {
- "n": 2611261343,
- "v": "2026.11.26 13:43",
- "file": "tehkarta-2611261343.tkz",
- "sha256": "93f2179ee0bbae26be435cd5630e9f84e8fd3b106788734eddeffcbe59772609",
- "sig": "STzlHkeo/++spcFouoKexbDkgJTlTC6xgNI/zq/DwB24T/90zZSBi0SblzRmf3RVTj5DeM5Lw1OPJ5iYzxLmDQ==",
- "size": 2784045,
- "notes": "Выгрузка для 1С в папку, которая задаётся один раз в окне «Совместная работа»; кнопка «Для 1С» появилась и в заказе"
+ "n": 2611261351,
+ "v": "2026.11.26 13:51",
+ "file": "tehkarta-2611261351.tkz",
+ "sha256": "882327d747b7f13474b77a0b55cbc59af9b981b2715cb96b7eebe21204564ece",
+ "sig": "BvKoKIwDxi5AupXS85m8/8XARlGRXrxyqF6Rn5Yk63Hp/7D1z5/WKrE+nUdi9XDMkE2x20kxJlrDqJ5+vVpfBQ==",
+ "size": 2784433,
+ "notes": "В заказе справа от шапки — сводка «Краска и грунт на весь заказ» по цветам"
 }
