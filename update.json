@@ -1,9 +1,9 @@
 {
- "n": 2611261351,
- "v": "2026.11.26 13:51",
- "file": "tehkarta-2611261351.tkz",
- "sha256": "882327d747b7f13474b77a0b55cbc59af9b981b2715cb96b7eebe21204564ece",
- "sig": "BvKoKIwDxi5AupXS85m8/8XARlGRXrxyqF6Rn5Yk63Hp/7D1z5/WKrE+nUdi9XDMkE2x20kxJlrDqJ5+vVpfBQ==",
- "size": 2784433,
- "notes": "В заказе справа от шапки — сводка «Краска и грунт на весь заказ» по цветам"
+ "n": 2611261352,
+ "v": "2026.11.26 13:52",
+ "file": "tehkarta-2611261352.tkz",
+ "sha256": "64463130efdd2642276140136e0fa597ac56c808f8aa21ad93715262b5e407b8",
+ "sig": "AqsuftM42euSy5sM10uTdZZ/dFyCLpKbyk/IYCoWuvAzHzH1JRCjCTknUJDgM3s7l8PP8HyInvumHOt8mOc9BQ==",
+ "size": 2784508,
+ "notes": "В сводке краски и грунта по заказу больше нет растворителя, отвердителя и разбавителя"
 }
