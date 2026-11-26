@@ -1,9 +1,9 @@
 {
- "n": 2611261735,
- "v": "2026.11.26 17:35",
- "file": "tehkarta-2611261735.tkz",
- "sha256": "e43ede13d77033722923f7dd5d2a1d15ceed4b7356799a13ac38c2e8f48e8e03",
- "sig": "YYCfHD24MgRcVUFhDJstuaADldeV1HP/LwiIUmMDf33YLc2IkIxp+KlHffCW72fZgdYX0pmN0XBtHCUdMQbrAA==",
- "size": 2830758,
- "notes": "В заказе рядом со сводкой грунта и краски — площадь окраски по цветам и общая квадратура крашеных деталей"
+ "n": 2611261750,
+ "v": "2026.11.26 17:50",
+ "file": "tehkarta-2611261750.tkz",
+ "sha256": "e654a6bcb92da5acd4543fc3cd8b98bb2fcb81e1768dafda7409f27306c00298",
+ "sig": "1ZSdb0GfT6ftStim0CxR/iRiTm+l1N9oiOpXcFh//fv+bNG2pIzaVu27Ol2QWbg6v1wEHeIck+KEgHLn5KiRDw==",
+ "size": 2830428,
+ "notes": "Этап «Второй грунт» убран: у маляра и в заказе остались «Грунт» и «Окраска», на грунт идёт полный расчёт"
 }
