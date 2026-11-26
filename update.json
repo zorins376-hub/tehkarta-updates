@@ -1,9 +1,9 @@
 {
- "n": 2611261356,
- "v": "2026.11.26 13:56",
- "file": "tehkarta-2611261356.tkz",
- "sha256": "d43f24b8b3589427d38f701344d1a9bef535a04c4ad55d1ef266642dd016792f",
- "sig": "pRwML+rH6gNW2FLrtbYbtZ3kEJqi8Epp2iBTiZzo7f8GQ933WwvupkUxtZ1DQkbC9Iqt6ux75IKl11pyucvcAQ==",
- "size": 2785435,
- "notes": "В итоге «МДФ М 16 (гладкий)» складывается с «МДФ L 16 (2 сторон)» в одну строку; в карточке материала появилось поле «В итоге складывать с»"
+ "n": 2611261359,
+ "v": "2026.11.26 13:59",
+ "file": "tehkarta-2611261359.tkz",
+ "sha256": "2787d947529c38bad222b2db998ea770e6a08b515525af6301f1d1d2cc29d4fa",
+ "sig": "Zmng5RdaCdpDpDGz/cAtqyHJfzSuUb6WyMv5CsKkJbC1FInegMcpQscCw1LMjQCA9XN+pGHPpWBr1qXt2K2zCQ==",
+ "size": 2785481,
+ "notes": "Сложение материалов в итоге работает и в уже введённых заказах; стоимость на вкладке «Спецификация» считается по цене общего материала"
 }
