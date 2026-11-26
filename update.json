@@ -1,9 +1,9 @@
 {
- "n": 2611261430,
- "v": "2026.11.26 14:30",
- "file": "tehkarta-2611261430.tkz",
- "sha256": "be2e7a15f525cb4e1dc4c0def9a933f62fccea4076ded252636dd7c30bf1ea7e",
- "sig": "WaGCzvCySxaKpjiyOl85ZW2Sat/KTzeOh0xLPZ1oxpAcoN+eMf3xP+IadeunLDSci+Yri8o2BrSvlPh5U2vPBw==",
- "size": 2788252,
- "notes": "Шаги назад и вперёд: Ctrl+Z отменяет последнюю правку в моделях, заказах, материалах и нормах, Ctrl+Y возвращает"
+ "n": 2611261541,
+ "v": "2026.11.26 15:41",
+ "file": "tehkarta-2611261541.tkz",
+ "sha256": "b2dbd901abe4b1bd2a79041f3586803ad1abac4087f43a26083276aa438f087a",
+ "sig": "bZ5qYLjm8zqu4QQpN4iuV6PY7N6RHPlaSIDc81jIHpgIeC6HGrGjQbzcLl+FOL2q7ggSc1wuieI8HWzYEEIAAw==",
+ "size": 2796167,
+ "notes": "В заказе новая таблица «Замесы на весь заказ»: смесь грунта и краски сама раскладывается на основу, отвердитель и растворитель; состав задаётся в карточке краски или грунта; в Excel заказа добавлен лист «Замесы»"
 }
