@@ -1,9 +1,9 @@
 {
- "n": 2611261624,
- "v": "2026.11.26 16:24",
- "file": "tehkarta-2611261624.tkz",
- "sha256": "2b545eac9ff571f5725d9a8042ba81f283e7aec9e10a5fddbf6f3f8e59be499b",
- "sig": "4Dv9yQo9zFedAcXQkkIlZsGSZMyYFMaacPncjtFOeIX4QZX2cjvXjXcwKKHaoVbOUD5xvPwkEXcPOqxm9F2QAA==",
- "size": 2821349,
- "notes": "Папка для 1С выбирается окном Windows или обзором папок главного компьютера — путь вписывать не нужно; причина отказа при сохранении остаётся на экране"
+ "n": 2611261626,
+ "v": "2026.11.26 16:26",
+ "file": "tehkarta-2611261626.tkz",
+ "sha256": "20b092e658554eec08834ae2fa34d1cb0192445c4975ac96b697884b54d51309",
+ "sig": "ylx8YwBgdxY2kQ1F+N4NuXTyufGP0rzfjjbatI9fA3RzIQVir2BBV1duyeHVsX4uLBKXlVfWZQI3r+hDZbzjBg==",
+ "size": 2822591,
+ "notes": "Части пропорции замеса правятся прямо в таблице замесов заказа: три поля под названием краски или грунта"
 }
