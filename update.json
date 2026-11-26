@@ -1,9 +1,9 @@
 {
- "n": 2611261712,
- "v": "2026.11.26 17:12",
- "file": "tehkarta-2611261712.tkz",
- "sha256": "2d41d716badb22bee1206210f6e149ee9793cd1f98e16b5695f88ed15e7ddbc3",
- "sig": "J3D9jMObmKIVjficzpch1Si8FQS8+mjxj1G0OraXCRuoOjfJc+50vbgaXaOP3uCbYw8lyI7rEsLJONFhBGvHAw==",
- "size": 2828636,
- "notes": "Две новые роли маляра: «маляр: грунт» видит в своём окне только грунт, «маляр: краска» — только краску. Права задаются в окне «Совместная работа», в списке людей"
+ "n": 2611261724,
+ "v": "2026.11.26 17:24",
+ "file": "tehkarta-2611261724.tkz",
+ "sha256": "ec759482fdd63a052c3c7f55d879799499f9d4e1c0ed8ce2eec1617a1ead0c0d",
+ "sig": "nP8Na3OA50nKmYQDfF5LGV/zwlaNk2zJP/K97rDkaob03sS1V9YF1I8YohZzxokc3WoUYigOTJJ3/xAXOz5KDg==",
+ "size": 2830196,
+ "notes": "Этапы у маляра: первый грунт, второй грунт, окраска. Факт по каждому этапу вносится отдельно — и в окне маляра, и в заказе в блоке «Факт маляра»"
 }
