@@ -1,9 +1,9 @@
 {
- "n": 2611261635,
- "v": "2026.11.26 16:35",
- "file": "tehkarta-2611261635.tkz",
- "sha256": "7c1b3e2711a0ca8e190bcfe9a838ba394b21185e074a997974af13cab9eef1e1",
- "sig": "E4XI3ysjfgZVQeoI4xRUWrEw//9929oe2kc4rK6MzD+KXxA51IYQAy5I61OaP/PiRxcgsp6A09DAp8YM2tmHBg==",
- "size": 2823973,
- "notes": "Блок «Замесы на весь заказ» можно скрыть кнопкой «Скрыть» — сворачивается в одну строку во всех заказах на этом компьютере"
+ "n": 2611261637,
+ "v": "2026.11.26 16:37",
+ "file": "tehkarta-2611261637.tkz",
+ "sha256": "d0a3baeeabed844fa6d61b732d168c9ad98a2638d480eeccd84c8e3498dde9ec",
+ "sig": "ci45AgVxLp2I0/J23VQUW7AjU5ReaZ4lW9o9mRV8QEC7P3ZbCf7cqJ7t5HuB6OWT+Y+8FD7P0Ffju+8gxSKIDw==",
+ "size": 2824076,
+ "notes": "Кнопка «+ Модель» убрана: модели заводятся только кнопкой «Из Базиса»"
 }
