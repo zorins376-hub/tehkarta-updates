@@ -1,9 +1,9 @@
 {
- "n": 2611271606,
- "v": "2026.11.27 16:06",
- "file": "tehkarta-2611271606.tkz",
- "sha256": "d3a1c1ca1504cd4c6de7dfa33187321c8e43ccb9c667419e323da65463d60e6c",
- "sig": "pB3qyhAXvCYqH6ndrIBWIhUuCDAQwLnefDAOR3+myJ8o3vFTtplj/8aJjTU/S33FuhTWORjiZ/3QyacSPtNmCw==",
- "size": 2848839,
- "notes": "Объёмный вид: открытая дверь больше не тянет за собой полки"
+ "n": 2611271703,
+ "v": "2026.11.27 17:03",
+ "file": "tehkarta-2611271703.tkz",
+ "sha256": "260d4ddc2c964f3c59ceaf13312559052151d2d62c51cdd8372a207184cb1441",
+ "sig": "1XMWDL/75CYeExQDbnROOXqI9GQcC0JuzFxgoi4PVcnFTjE1qxRNkQPVIasQ1LnmOpYJwdZFogcZfqiwnflHBA==",
+ "size": 2850326,
+ "notes": "Объёмный вид: сторона петель определяется и по петле, нарисованной отдельной деталью на боковине; если петель в файле нет — программа пишет об этом"
 }
