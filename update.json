@@ -1,9 +1,9 @@
 {
- "n": 2611271305,
- "v": "2026.11.27 13:05",
- "file": "tehkarta-2611271305.tkz",
- "sha256": "241cc949f6ab42fc3cbe8c2c92f1c2904ec64e4de4605fca3c1f744694263f9d",
- "sig": "NIqjNv6a9dRYiHueql6pLwT3MzRyDOQcUKdOj3gtMQ1o+2CDXkmv3ef3MQEBC5FgKeE/6JIBgv+ErYeNUkIuBA==",
- "size": 2836492,
- "notes": "Окно маляра работает без связи: открывается из памяти телефона, вписанное уходит на сервер само; ставится на экран как приложение"
+ "n": 2611271330,
+ "v": "2026.11.27 13:30",
+ "file": "tehkarta-2611271330.tkz",
+ "sha256": "a2aa478ce0771a8463a23d1228623d6d379853ff85e6f9c6cdb6e50ed99a2d16",
+ "sig": "OuFD4+648N5CiivglK4RW4/XarMdbHELkcW5HE4cPJO8Fc8tF/CmMdDEERZZo63up2ybUlBQVfJ2ramn0MUZDw==",
+ "size": 2837012,
+ "notes": "Исправление: сервер больше не останавливается от запроса с испорченным адресом"
 }
