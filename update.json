@@ -1,9 +1,9 @@
 {
- "n": 2611271604,
- "v": "2026.11.27 16:04",
- "file": "tehkarta-2611271604.tkz",
- "sha256": "6e49f90b922dc504416c0fc5b112915866d5278eb47e4b69d2f9bf5e4b765fca",
- "sig": "c1Cm3Xh4+N4KM2eN/merO04Lr8BIMiwr949vV+FWz8nF5d5vkYPPZ9rE6Qvv2vC0x1eV/NpJgfVJ6TBINW8KDw==",
- "size": 2848578,
- "notes": "Объёмный вид: дверь открывается с правильной стороны — поворачивается вокруг края, где стоят петли"
+ "n": 2611271606,
+ "v": "2026.11.27 16:06",
+ "file": "tehkarta-2611271606.tkz",
+ "sha256": "d3a1c1ca1504cd4c6de7dfa33187321c8e43ccb9c667419e323da65463d60e6c",
+ "sig": "pB3qyhAXvCYqH6ndrIBWIhUuCDAQwLnefDAOR3+myJ8o3vFTtplj/8aJjTU/S33FuhTWORjiZ/3QyacSPtNmCw==",
+ "size": 2848839,
+ "notes": "Объёмный вид: открытая дверь больше не тянет за собой полки"
 }
