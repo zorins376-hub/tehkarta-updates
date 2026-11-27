@@ -1,9 +1,9 @@
 {
- "n": 2611271559,
- "v": "2026.11.27 15:59",
- "file": "tehkarta-2611271559.tkz",
- "sha256": "34e1578a036a2c1055a3d91ebf5373b47cb5dbe19667d7070a9dcc58ff6185e9",
- "sig": "n2bnfLAeQ2NTSjUk8Mv6macnTpdKhx7TiOx8BKgIbaC5EDgZigYrIA68835B/57AzVTgITl5rQqYxNmknVv8AQ==",
- "size": 2846762,
- "notes": "Сводку «Грунт и краска на весь заказ» теперь можно скрыть кнопкой, как и блок замесов"
+ "n": 2611271604,
+ "v": "2026.11.27 16:04",
+ "file": "tehkarta-2611271604.tkz",
+ "sha256": "6e49f90b922dc504416c0fc5b112915866d5278eb47e4b69d2f9bf5e4b765fca",
+ "sig": "c1Cm3Xh4+N4KM2eN/merO04Lr8BIMiwr949vV+FWz8nF5d5vkYPPZ9rE6Qvv2vC0x1eV/NpJgfVJ6TBINW8KDw==",
+ "size": 2848578,
+ "notes": "Объёмный вид: дверь открывается с правильной стороны — поворачивается вокруг края, где стоят петли"
 }
