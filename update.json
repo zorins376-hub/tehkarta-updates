@@ -1,9 +1,9 @@
 {
- "n": 2611271330,
- "v": "2026.11.27 13:30",
- "file": "tehkarta-2611271330.tkz",
- "sha256": "a2aa478ce0771a8463a23d1228623d6d379853ff85e6f9c6cdb6e50ed99a2d16",
- "sig": "OuFD4+648N5CiivglK4RW4/XarMdbHELkcW5HE4cPJO8Fc8tF/CmMdDEERZZo63up2ybUlBQVfJ2ramn0MUZDw==",
- "size": 2837012,
- "notes": "Исправление: сервер больше не останавливается от запроса с испорченным адресом"
+ "n": 2611271529,
+ "v": "2026.11.27 15:29",
+ "file": "tehkarta-2611271529.tkz",
+ "sha256": "d04aa9fb4d1103b08ddb0b9036b62a03161c0adf0dbd7c248dffa20a86b9314d",
+ "sig": "kQ71Io7KbMpNvn9GrdFNG+tdyFB5V5JaWaNbkRAv9Ltl9c+AtzlyYou7ky5AldTzbqr6AHhJzRZ5nhhVGzc5CA==",
+ "size": 2845019,
+ "notes": "МДФ М 16 и МДФ L 16 в итоге снова отдельными строками. Исправления по итогам проверки: окно маляра не путает строки, не теряет и не дублирует вписанное; после смены пароля старый вход с телефона перестаёт действовать"
 }
