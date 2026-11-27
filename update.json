@@ -1,9 +1,9 @@
 {
- "n": 2611271541,
- "v": "2026.11.27 15:41",
- "file": "tehkarta-2611271541.tkz",
- "sha256": "a2102dbb33924f20c7e076fd1af4f7bd068e950a4f5444ceec0ee5e73daceaba",
- "sig": "wFpaOhN6sKk+bcgTF79lp6HzY+BC8CqHyLIZDx7a7JZb1h1gicvVjsSi2pSNe4PjezNfYJVzxP45iWgHT0vQAA==",
- "size": 2846355,
- "notes": "Сборка коробки: клапаны складываются по очереди — сначала короткие, потом длинные по одному — и больше не проходят друг сквозь друга"
+ "n": 2611271559,
+ "v": "2026.11.27 15:59",
+ "file": "tehkarta-2611271559.tkz",
+ "sha256": "34e1578a036a2c1055a3d91ebf5373b47cb5dbe19667d7070a9dcc58ff6185e9",
+ "sig": "n2bnfLAeQ2NTSjUk8Mv6macnTpdKhx7TiOx8BKgIbaC5EDgZigYrIA68835B/57AzVTgITl5rQqYxNmknVv8AQ==",
+ "size": 2846762,
+ "notes": "Сводку «Грунт и краска на весь заказ» теперь можно скрыть кнопкой, как и блок замесов"
 }
