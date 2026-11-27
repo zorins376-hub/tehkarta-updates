@@ -1,9 +1,9 @@
 {
- "n": 2611271529,
- "v": "2026.11.27 15:29",
- "file": "tehkarta-2611271529.tkz",
- "sha256": "d04aa9fb4d1103b08ddb0b9036b62a03161c0adf0dbd7c248dffa20a86b9314d",
- "sig": "kQ71Io7KbMpNvn9GrdFNG+tdyFB5V5JaWaNbkRAv9Ltl9c+AtzlyYou7ky5AldTzbqr6AHhJzRZ5nhhVGzc5CA==",
- "size": 2845019,
- "notes": "МДФ М 16 и МДФ L 16 в итоге снова отдельными строками. Исправления по итогам проверки: окно маляра не путает строки, не теряет и не дублирует вписанное; после смены пароля старый вход с телефона перестаёт действовать"
+ "n": 2611271538,
+ "v": "2026.11.27 15:38",
+ "file": "tehkarta-2611271538.tkz",
+ "sha256": "cdd3cad5294802d5b5d31c55a059f8b4facc64afde5fbfc030ab614e5ea9d16e",
+ "sig": "UYLO/7AFB+bEFlprTN0gc5kAkEB26DRcpeyYExsvZHfJ2CA77XYYZKbdxDe2RxC1VeU9xU0As/HiDSOgBczyCQ==",
+ "size": 2845587,
+ "notes": "Печать развёртки коробки и листов работает без нового окна — больше нет сообщения «Браузер не дал открыть окно печати»"
 }
