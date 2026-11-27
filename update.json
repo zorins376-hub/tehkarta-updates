@@ -1,9 +1,9 @@
 {
- "n": 2611261916,
- "v": "2026.11.26 19:16",
- "file": "tehkarta-2611261916.tkz",
- "sha256": "6069413d4a98b7ee8f3994cf680f2d19cdbae3c9e76c8eb878765f0369c42974",
- "sig": "wMoWrUUBmCdxWHnfz9ZYkL1Htsy57tTxru/TieE1UTM3Diw2Nl79Eaw5r7RoVKPbeRPbmuOjG8oF6C2dw6Z+Ag==",
- "size": 2836348,
- "notes": "Окно маляра: вписанное без связи сохраняется в телефоне и уходит на сервер само; значок и запуск как приложение"
+ "n": 2611271305,
+ "v": "2026.11.27 13:05",
+ "file": "tehkarta-2611271305.tkz",
+ "sha256": "241cc949f6ab42fc3cbe8c2c92f1c2904ec64e4de4605fca3c1f744694263f9d",
+ "sig": "NIqjNv6a9dRYiHueql6pLwT3MzRyDOQcUKdOj3gtMQ1o+2CDXkmv3ef3MQEBC5FgKeE/6JIBgv+ErYeNUkIuBA==",
+ "size": 2836492,
+ "notes": "Окно маляра работает без связи: открывается из памяти телефона, вписанное уходит на сервер само; ставится на экран как приложение"
 }
